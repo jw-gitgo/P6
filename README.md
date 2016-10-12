@@ -15,3 +15,10 @@ Respondent B (on the second version):  My second critic understood the purpose o
 Respondent C (on the final version):  I provided minimal explanation this time, but he was still able to understand the purpose and structure of the visualization.  The added subtitles and text also helped to make the data and methodology clear.  I considered his feedback very positive when he almost immediately starting clicking through the visualization out of his own interest.  He agreed that it provided some interesting insights on the question posed.
 
 ### Resources
+http://dimplejs.org
+http://dimplejs.org/advanced_examples_viewer.html?id=advanced_interactive_legends
+https://d3js.org/
+http://stackoverflow.com/
+http://apps.who.int/healthinfo/statistics/mortality/whodpms/
+http://databank.worldbank.org/data/home.aspx
+
