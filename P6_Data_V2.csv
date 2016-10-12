@@ -1,0 +1,2367 @@
+Country,Year,Category,Value
+Argentina,1980,All Diseases,528.6
+Argentina,1980,All Exterrnal Factors,51.1
+Argentina,1980,All Suicide,7.4
+Argentina,1980,Expected Lifespan,69.5
+Argentina,1981,All Diseases,526.7
+Argentina,1981,All Exterrnal Factors,51.5
+Argentina,1981,All Suicide,8.1
+Argentina,1981,Expected Lifespan,69.8
+Argentina,1982,All Diseases,505.2
+Argentina,1982,All Exterrnal Factors,46.1
+Argentina,1982,All Suicide,6.8
+Argentina,1982,Expected Lifespan,70
+Argentina,1983,All Diseases,551.6
+Argentina,1983,All Exterrnal Factors,50.3
+Argentina,1983,All Suicide,6.3
+Argentina,1983,Expected Lifespan,70.3
+Argentina,1984,All Diseases,560.2
+Argentina,1984,All Exterrnal Factors,47.8
+Argentina,1984,All Suicide,6.5
+Argentina,1984,Expected Lifespan,70.5
+Argentina,1985,All Diseases,516.4
+Argentina,1985,All Exterrnal Factors,41.7
+Argentina,1985,All Suicide,6.8
+Argentina,1985,Expected Lifespan,70.6
+Argentina,1986,All Diseases,514.7
+Argentina,1986,All Exterrnal Factors,46.8
+Argentina,1986,All Suicide,7.8
+Argentina,1986,Expected Lifespan,70.8
+Argentina,1987,All Diseases,529.4
+Argentina,1987,All Exterrnal Factors,46.4
+Argentina,1987,All Suicide,7.7
+Argentina,1987,Expected Lifespan,71
+Argentina,1988,All Diseases,499.3
+Argentina,1988,All Exterrnal Factors,46.6
+Argentina,1988,All Suicide,7.7
+Argentina,1988,Expected Lifespan,71.1
+Argentina,1989,All Diseases,476.9
+Argentina,1989,All Exterrnal Factors,47.4
+Argentina,1989,All Suicide,7.3
+Argentina,1989,Expected Lifespan,71.3
+Argentina,1990,All Diseases,482.6
+Argentina,1990,All Exterrnal Factors,44.4
+Argentina,1990,All Suicide,6.8
+Argentina,1990,Expected Lifespan,71.5
+Argentina,1991,All Diseases,466.6
+Argentina,1991,All Exterrnal Factors,45.7
+Argentina,1991,All Suicide,6.1
+Argentina,1991,Expected Lifespan,71.8
+Argentina,1992,All Diseases,473.9
+Argentina,1992,All Exterrnal Factors,46.7
+Argentina,1992,All Suicide,6.8
+Argentina,1992,Expected Lifespan,72
+Argentina,1993,All Diseases,467
+Argentina,1993,All Exterrnal Factors,46.3
+Argentina,1993,All Suicide,6.8
+Argentina,1993,Expected Lifespan,72.2
+Argentina,1994,All Diseases,426.7
+Argentina,1994,All Exterrnal Factors,47.6
+Argentina,1994,All Suicide,6.7
+Argentina,1994,Expected Lifespan,72.4
+Argentina,1995,All Diseases,454.7
+Argentina,1995,All Exterrnal Factors,44.7
+Argentina,1995,All Suicide,6.5
+Argentina,1995,Expected Lifespan,72.7
+Argentina,1996,All Diseases,436.6
+Argentina,1996,All Exterrnal Factors,45.8
+Argentina,1996,All Suicide,6.5
+Argentina,1996,Expected Lifespan,72.9
+Argentina,1997,All Diseases,411.5
+Argentina,1997,All Exterrnal Factors,46.1
+Argentina,1997,All Suicide,6.2
+Argentina,1997,Expected Lifespan,73.1
+Argentina,1998,All Diseases,427.4
+Argentina,1998,All Exterrnal Factors,46.9
+Argentina,1998,All Suicide,6.5
+Argentina,1998,Expected Lifespan,73.3
+Argentina,1999,All Diseases,435.4
+Argentina,1999,All Exterrnal Factors,46.3
+Argentina,1999,All Suicide,6.6
+Argentina,1999,Expected Lifespan,73.5
+Argentina,2000,All Diseases,401.6
+Argentina,2000,All Exterrnal Factors,44.1
+Argentina,2000,All Suicide,7.5
+Argentina,2000,Expected Lifespan,73.8
+Argentina,2001,All Diseases,405.8
+Argentina,2001,All Exterrnal Factors,43.7
+Argentina,2001,All Suicide,8.3
+Argentina,2001,Expected Lifespan,74
+Argentina,2002,All Diseases,400.7
+Argentina,2002,All Exterrnal Factors,42.3
+Argentina,2002,All Suicide,8.3
+Argentina,2002,Expected Lifespan,74.2
+Argentina,2003,All Diseases,407.7
+Argentina,2003,All Exterrnal Factors,39.2
+Argentina,2003,All Suicide,8.5
+Argentina,2003,Expected Lifespan,74.3
+Argentina,2004,All Diseases,386.4
+Argentina,2004,All Exterrnal Factors,36.8
+Argentina,2004,All Suicide,8
+Argentina,2004,Expected Lifespan,74.5
+Argentina,2005,All Diseases,376.6
+Argentina,2005,All Exterrnal Factors,37.4
+Argentina,2005,All Suicide,7.7
+Argentina,2005,Expected Lifespan,74.7
+Argentina,2006,All Diseases,366.3
+Argentina,2006,All Exterrnal Factors,38.6
+Argentina,2006,All Suicide,7.8
+Argentina,2006,Expected Lifespan,74.8
+Argentina,2007,All Diseases,387.1
+Argentina,2007,All Exterrnal Factors,39.1
+Argentina,2007,All Suicide,7.3
+Argentina,2007,Expected Lifespan,75
+Argentina,2008,All Diseases,353.6
+Argentina,2008,All Exterrnal Factors,39.1
+Argentina,2008,All Suicide,7.5
+Argentina,2008,Expected Lifespan,75.2
+Argentina,2009,All Diseases,350.4
+Argentina,2009,All Exterrnal Factors,35.9
+Argentina,2009,All Suicide,7
+Argentina,2009,Expected Lifespan,75.3
+Argentina,2010,All Diseases,364
+Argentina,2010,All Exterrnal Factors,36.1
+Argentina,2010,All Suicide,7
+Argentina,2010,Expected Lifespan,75.5
+Argentina,2011,All Diseases,355.4
+Argentina,2011,All Exterrnal Factors,37.7
+Argentina,2011,All Suicide,6.9
+Argentina,2011,Expected Lifespan,75.6
+Argentina,2012,All Diseases,348.6
+Argentina,2012,All Exterrnal Factors,37.5
+Argentina,2012,All Suicide,7.6
+Argentina,2012,Expected Lifespan,75.8
+Argentina,2013,All Diseases,347
+Argentina,2013,All Exterrnal Factors,39
+Argentina,2013,All Suicide,7
+Argentina,2013,Expected Lifespan,76
+Brazil,1980,All Diseases,490.2
+Brazil,1980,All Exterrnal Factors,63.2
+Brazil,1980,All Suicide,4
+Brazil,1980,Expected Lifespan,62
+Brazil,1981,All Diseases,482.1
+Brazil,1981,All Exterrnal Factors,63.1
+Brazil,1981,All Suicide,4
+Brazil,1981,Expected Lifespan,62.3
+Brazil,1982,All Diseases,468.1
+Brazil,1982,All Exterrnal Factors,63.5
+Brazil,1982,All Suicide,3.8
+Brazil,1982,Expected Lifespan,62.6
+Brazil,1983,All Diseases,454.1
+Brazil,1983,All Exterrnal Factors,63.3
+Brazil,1983,All Suicide,4.3
+Brazil,1983,Expected Lifespan,62.9
+Brazil,1984,All Diseases,469.8
+Brazil,1984,All Exterrnal Factors,65.6
+Brazil,1984,All Suicide,4.1
+Brazil,1984,Expected Lifespan,63.2
+Brazil,1985,All Diseases,461.9
+Brazil,1985,All Exterrnal Factors,67.3
+Brazil,1985,All Suicide,3.9
+Brazil,1985,Expected Lifespan,63.6
+Brazil,1986,All Diseases,454.9
+Brazil,1986,All Exterrnal Factors,74.6
+Brazil,1986,All Suicide,3.8
+Brazil,1986,Expected Lifespan,63.9
+Brazil,1987,All Diseases,381.6
+Brazil,1987,All Exterrnal Factors,68.2
+Brazil,1987,All Suicide,4
+Brazil,1987,Expected Lifespan,64.2
+Brazil,1988,All Diseases,399.7
+Brazil,1988,All Exterrnal Factors,67.8
+Brazil,1988,All Suicide,3.7
+Brazil,1988,Expected Lifespan,64.6
+Brazil,1989,All Diseases,379.1
+Brazil,1989,All Exterrnal Factors,70.1
+Brazil,1989,All Suicide,3.6
+Brazil,1989,Expected Lifespan,65
+Brazil,1990,All Diseases,508
+Brazil,1990,All Exterrnal Factors,70.4
+Brazil,1990,All Suicide,3.9
+Brazil,1990,Expected Lifespan,65.3
+Brazil,1991,All Diseases,465.6
+Brazil,1991,All Exterrnal Factors,69.7
+Brazil,1991,All Suicide,4.1
+Brazil,1991,Expected Lifespan,65.7
+Brazil,1992,All Diseases,468
+Brazil,1992,All Exterrnal Factors,65.2
+Brazil,1992,All Suicide,4
+Brazil,1992,Expected Lifespan,66.2
+Brazil,1993,All Diseases,487.8
+Brazil,1993,All Exterrnal Factors,67.7
+Brazil,1993,All Suicide,4.1
+Brazil,1993,Expected Lifespan,66.6
+Brazil,1994,All Diseases,479.2
+Brazil,1994,All Exterrnal Factors,67.9
+Brazil,1994,All Suicide,4.3
+Brazil,1994,Expected Lifespan,67.1
+Brazil,1995,All Diseases,470.9
+Brazil,1995,All Exterrnal Factors,70.8
+Brazil,1995,All Suicide,4.6
+Brazil,1995,Expected Lifespan,67.6
+Brazil,1996,All Diseases,514.7
+Brazil,1996,All Exterrnal Factors,71.8
+Brazil,1996,All Suicide,4.6
+Brazil,1996,Expected Lifespan,68.1
+Brazil,1997,All Diseases,487.9
+Brazil,1997,All Exterrnal Factors,70.3
+Brazil,1997,All Suicide,4.6
+Brazil,1997,Expected Lifespan,68.6
+Brazil,1998,All Diseases,486.8
+Brazil,1998,All Exterrnal Factors,67.3
+Brazil,1998,All Suicide,4.6
+Brazil,1998,Expected Lifespan,69.1
+Brazil,1999,All Diseases,473.4
+Brazil,1999,All Exterrnal Factors,66
+Brazil,1999,All Suicide,4.2
+Brazil,1999,Expected Lifespan,69.6
+Brazil,2000,All Diseases,467.4
+Brazil,2000,All Exterrnal Factors,65.6
+Brazil,2000,All Suicide,4.2
+Brazil,2000,Expected Lifespan,70
+Brazil,2001,All Diseases,453.9
+Brazil,2001,All Exterrnal Factors,65.4
+Brazil,2001,All Suicide,4.7
+Brazil,2001,Expected Lifespan,70.5
+Brazil,2002,All Diseases,446.4
+Brazil,2002,All Exterrnal Factors,66.7
+Brazil,2002,All Suicide,4.5
+Brazil,2002,Expected Lifespan,70.8
+Brazil,2003,All Diseases,440.7
+Brazil,2003,All Exterrnal Factors,65.5
+Brazil,2003,All Suicide,4.5
+Brazil,2003,Expected Lifespan,71.2
+Brazil,2004,All Diseases,441.1
+Brazil,2004,All Exterrnal Factors,65.3
+Brazil,2004,All Suicide,4.5
+Brazil,2004,Expected Lifespan,71.5
+Brazil,2005,All Diseases,425
+Brazil,2005,All Exterrnal Factors,64.1
+Brazil,2005,All Suicide,4.7
+Brazil,2005,Expected Lifespan,71.8
+Brazil,2006,All Diseases,429.8
+Brazil,2006,All Exterrnal Factors,63.2
+Brazil,2006,All Suicide,4.6
+Brazil,2006,Expected Lifespan,72.1
+Brazil,2007,All Diseases,420.6
+Brazil,2007,All Exterrnal Factors,63.4
+Brazil,2007,All Suicide,4.7
+Brazil,2007,Expected Lifespan,72.4
+Brazil,2008,All Diseases,414.4
+Brazil,2008,All Exterrnal Factors,64.7
+Brazil,2008,All Suicide,4.8
+Brazil,2008,Expected Lifespan,72.7
+Brazil,2009,All Diseases,411.8
+Brazil,2009,All Exterrnal Factors,65.3
+Brazil,2009,All Suicide,4.8
+Brazil,2009,Expected Lifespan,73
+Brazil,2010,All Diseases,411
+Brazil,2010,All Exterrnal Factors,66.8
+Brazil,2010,All Suicide,4.7
+Brazil,2010,Expected Lifespan,73.3
+Brazil,2011,All Diseases,406.4
+Brazil,2011,All Exterrnal Factors,66.7
+Brazil,2011,All Suicide,4.8
+Brazil,2011,Expected Lifespan,73.6
+Brazil,2012,All Diseases,389.8
+Brazil,2012,All Exterrnal Factors,68.5
+Brazil,2012,All Suicide,5
+Brazil,2012,Expected Lifespan,73.8
+Brazil,2013,All Diseases,388.5
+Brazil,2013,All Exterrnal Factors,67.3
+Brazil,2013,All Suicide,5
+Brazil,2013,Expected Lifespan,74.1
+Colombia,1980,Expected Lifespan,65.5
+Colombia,1981,Expected Lifespan,66
+Colombia,1982,Expected Lifespan,66.5
+Colombia,1983,Expected Lifespan,66.9
+Colombia,1984,All Diseases,518.9
+Colombia,1984,All Exterrnal Factors,95
+Colombia,1984,All Suicide,4.2
+Colombia,1984,Expected Lifespan,67.3
+Colombia,1985,All Diseases,572.7
+Colombia,1985,All Exterrnal Factors,111.3
+Colombia,1985,All Suicide,4
+Colombia,1985,Expected Lifespan,67.6
+Colombia,1986,All Diseases,518.3
+Colombia,1986,All Exterrnal Factors,111.8
+Colombia,1986,All Suicide,3.6
+Colombia,1986,Expected Lifespan,67.8
+Colombia,1987,All Diseases,326.3
+Colombia,1987,All Exterrnal Factors,105
+Colombia,1987,All Suicide,3.2
+Colombia,1987,Expected Lifespan,67.9
+Colombia,1988,All Diseases,320.4
+Colombia,1988,All Exterrnal Factors,111.2
+Colombia,1988,All Suicide,3.1
+Colombia,1988,Expected Lifespan,68.1
+Colombia,1989,All Diseases,314.2
+Colombia,1989,All Exterrnal Factors,111.3
+Colombia,1989,All Suicide,2.8
+Colombia,1989,Expected Lifespan,68.2
+Colombia,1990,All Diseases,401.7
+Colombia,1990,All Exterrnal Factors,115.3
+Colombia,1990,All Suicide,2.8
+Colombia,1990,Expected Lifespan,68.3
+Colombia,1991,All Diseases,395.1
+Colombia,1991,All Exterrnal Factors,128.6
+Colombia,1991,All Suicide,3.1
+Colombia,1991,Expected Lifespan,68.5
+Colombia,1992,All Diseases,384.8
+Colombia,1992,All Exterrnal Factors,134.4
+Colombia,1992,All Suicide,3.5
+Colombia,1992,Expected Lifespan,68.6
+Colombia,1993,All Diseases,376.4
+Colombia,1993,All Exterrnal Factors,132.9
+Colombia,1993,All Suicide,3.5
+Colombia,1993,Expected Lifespan,68.9
+Colombia,1994,All Diseases,373
+Colombia,1994,All Exterrnal Factors,125.2
+Colombia,1994,All Suicide,3.7
+Colombia,1994,Expected Lifespan,69.1
+Colombia,1995,All Diseases,363.6
+Colombia,1995,All Exterrnal Factors,113.2
+Colombia,1995,All Suicide,3.4
+Colombia,1995,Expected Lifespan,69.4
+Colombia,1996,All Diseases,366.5
+Colombia,1996,All Exterrnal Factors,112.7
+Colombia,1996,All Suicide,3.5
+Colombia,1996,Expected Lifespan,69.7
+Colombia,1997,All Diseases,377.5
+Colombia,1997,All Exterrnal Factors,106.2
+Colombia,1997,All Suicide,3.5
+Colombia,1997,Expected Lifespan,70.1
+Colombia,1998,All Diseases,367.6
+Colombia,1998,All Exterrnal Factors,102.8
+Colombia,1998,All Suicide,5.5
+Colombia,1998,Expected Lifespan,70.4
+Colombia,1999,All Diseases,391.2
+Colombia,1999,All Exterrnal Factors,107.6
+Colombia,1999,All Suicide,5.7
+Colombia,1999,Expected Lifespan,70.7
+Colombia,2000,All Diseases,383.9
+Colombia,2000,All Exterrnal Factors,109.4
+Colombia,2000,All Suicide,6
+Colombia,2000,Expected Lifespan,71
+Colombia,2001,All Diseases,379.6
+Colombia,2001,All Exterrnal Factors,110
+Colombia,2001,All Suicide,6.1
+Colombia,2001,Expected Lifespan,71.3
+Colombia,2002,All Diseases,369.8
+Colombia,2002,All Exterrnal Factors,110.2
+Colombia,2002,All Suicide,5.8
+Colombia,2002,Expected Lifespan,71.5
+Colombia,2003,All Diseases,379.4
+Colombia,2003,All Exterrnal Factors,89.3
+Colombia,2003,All Suicide,5.6
+Colombia,2003,Expected Lifespan,71.8
+Colombia,2004,All Diseases,368.8
+Colombia,2004,All Exterrnal Factors,84.9
+Colombia,2004,All Suicide,5.4
+Colombia,2004,Expected Lifespan,72
+Colombia,2005,All Diseases,372.2
+Colombia,2005,All Exterrnal Factors,75.3
+Colombia,2005,All Suicide,5
+Colombia,2005,Expected Lifespan,72.3
+Colombia,2006,All Diseases,368.8
+Colombia,2006,All Exterrnal Factors,73.4
+Colombia,2006,All Suicide,5.1
+Colombia,2006,Expected Lifespan,72.5
+Colombia,2007,All Diseases,353.6
+Colombia,2007,All Exterrnal Factors,68.8
+Colombia,2007,All Suicide,5
+Colombia,2007,Expected Lifespan,72.7
+Colombia,2008,All Diseases,350.4
+Colombia,2008,All Exterrnal Factors,68.5
+Colombia,2008,All Suicide,5
+Colombia,2008,Expected Lifespan,72.9
+Colombia,2009,All Diseases,328.6
+Colombia,2009,All Exterrnal Factors,72
+Colombia,2009,All Suicide,5
+Colombia,2009,Expected Lifespan,73.1
+Colombia,2010,All Diseases,333.5
+Colombia,2010,All Exterrnal Factors,67.4
+Colombia,2010,All Suicide,4.6
+Colombia,2010,Expected Lifespan,73.3
+Colombia,2011,All Diseases,311.6
+Colombia,2011,All Exterrnal Factors,62.2
+Colombia,2011,All Suicide,4.4
+Colombia,2011,Expected Lifespan,73.5
+Colombia,2012,All Diseases,310.1
+Colombia,2012,All Exterrnal Factors,60.1
+Colombia,2012,All Suicide,4.5
+Colombia,2012,Expected Lifespan,73.6
+Colombia,2013,Expected Lifespan,73.8
+France,1980,All Diseases,338.5
+France,1980,All Exterrnal Factors,59.4
+France,1980,All Suicide,16.9
+France,1980,Expected Lifespan,74.1
+France,1981,All Diseases,333.2
+France,1981,All Exterrnal Factors,57.9
+France,1981,All Suicide,17
+France,1981,Expected Lifespan,74.3
+France,1982,All Diseases,315.6
+France,1982,All Exterrnal Factors,56.5
+France,1982,All Suicide,18
+France,1982,Expected Lifespan,74.5
+France,1983,All Diseases,319.9
+France,1983,All Exterrnal Factors,55
+France,1983,All Suicide,18.6
+France,1983,Expected Lifespan,74.8
+France,1984,All Diseases,299.1
+France,1984,All Exterrnal Factors,53
+France,1984,All Suicide,18.9
+France,1984,Expected Lifespan,75
+France,1985,All Diseases,300
+France,1985,All Exterrnal Factors,50.4
+France,1985,All Suicide,19.3
+France,1985,Expected Lifespan,75.3
+France,1986,All Diseases,301.9
+France,1986,All Exterrnal Factors,50.8
+France,1986,All Suicide,19.5
+France,1986,Expected Lifespan,75.6
+France,1987,All Diseases,269.1
+France,1987,All Exterrnal Factors,45.8
+France,1987,All Suicide,18.5
+France,1987,Expected Lifespan,75.8
+France,1988,All Diseases,260.2
+France,1988,All Exterrnal Factors,46.7
+France,1988,All Suicide,17.5
+France,1988,Expected Lifespan,76.1
+France,1989,All Diseases,253.8
+France,1989,All Exterrnal Factors,47.4
+France,1989,All Suicide,17.5
+France,1989,Expected Lifespan,76.3
+France,1990,All Diseases,247.1
+France,1990,All Exterrnal Factors,46.6
+France,1990,All Suicide,16.8
+France,1990,Expected Lifespan,76.6
+France,1991,All Diseases,243.8
+France,1991,All Exterrnal Factors,44.9
+France,1991,All Suicide,16.9
+France,1991,Expected Lifespan,76.8
+France,1992,All Diseases,237.3
+France,1992,All Exterrnal Factors,43.1
+France,1992,All Suicide,17
+France,1992,Expected Lifespan,77.1
+France,1993,All Diseases,238
+France,1993,All Exterrnal Factors,41.8
+France,1993,All Suicide,17.9
+France,1993,Expected Lifespan,77.3
+France,1994,All Diseases,226.2
+France,1994,All Exterrnal Factors,39.6
+France,1994,All Suicide,17.4
+France,1994,Expected Lifespan,77.6
+France,1995,All Diseases,227.6
+France,1995,All Exterrnal Factors,38.7
+France,1995,All Suicide,16.8
+France,1995,Expected Lifespan,77.8
+France,1996,All Diseases,225.2
+France,1996,All Exterrnal Factors,37.5
+France,1996,All Suicide,16
+France,1996,Expected Lifespan,78
+France,1997,All Diseases,216.4
+France,1997,All Exterrnal Factors,37
+France,1997,All Suicide,15.6
+France,1997,Expected Lifespan,78.3
+France,1998,All Diseases,221.9
+France,1998,All Exterrnal Factors,38.4
+France,1998,All Suicide,14.8
+France,1998,Expected Lifespan,78.6
+France,1999,All Diseases,217.6
+France,1999,All Exterrnal Factors,38.1
+France,1999,All Suicide,14.4
+France,1999,Expected Lifespan,78.8
+France,2000,All Diseases,225.4
+France,2000,All Exterrnal Factors,34.1
+France,2000,All Suicide,15
+France,2000,Expected Lifespan,79.1
+France,2001,All Diseases,220.5
+France,2001,All Exterrnal Factors,34.2
+France,2001,All Suicide,14.5
+France,2001,Expected Lifespan,79.2
+France,2002,All Diseases,219.2
+France,2002,All Exterrnal Factors,32.8
+France,2002,All Suicide,14.6
+France,2002,Expected Lifespan,79.3
+France,2003,All Diseases,224.3
+France,2003,All Exterrnal Factors,31.7
+France,2003,All Suicide,14.8
+France,2003,Expected Lifespan,79.1
+France,2004,All Diseases,199.9
+France,2004,All Exterrnal Factors,27.7
+France,2004,All Suicide,14.5
+France,2004,Expected Lifespan,80.2
+France,2005,All Diseases,201.5
+France,2005,All Exterrnal Factors,27.4
+France,2005,All Suicide,14.1
+France,2005,Expected Lifespan,80.2
+France,2006,All Diseases,187.9
+France,2006,All Exterrnal Factors,26
+France,2006,All Suicide,13.6
+France,2006,Expected Lifespan,80.8
+France,2007,All Diseases,182
+France,2007,All Exterrnal Factors,25.5
+France,2007,All Suicide,13
+France,2007,Expected Lifespan,81.1
+France,2008,All Diseases,180.4
+France,2008,All Exterrnal Factors,24.8
+France,2008,All Suicide,13.2
+France,2008,Expected Lifespan,81.2
+France,2009,All Diseases,175.3
+France,2009,All Exterrnal Factors,24.4
+France,2009,All Suicide,13.3
+France,2009,Expected Lifespan,81.4
+France,2010,All Diseases,168.4
+France,2010,All Exterrnal Factors,24
+France,2010,All Suicide,13.1
+France,2010,Expected Lifespan,81.7
+France,2011,All Diseases,160.9
+France,2011,All Exterrnal Factors,23.1
+France,2011,All Suicide,12.9
+France,2011,Expected Lifespan,82.1
+France,2012,Expected Lifespan,82
+France,2013,Expected Lifespan,82.2
+Germany,1980,Expected Lifespan,72.7
+Germany,1981,Expected Lifespan,73
+Germany,1982,Expected Lifespan,73.2
+Germany,1983,Expected Lifespan,73.5
+Germany,1984,Expected Lifespan,73.8
+Germany,1985,Expected Lifespan,74.1
+Germany,1986,Expected Lifespan,74.3
+Germany,1987,Expected Lifespan,74.6
+Germany,1988,Expected Lifespan,74.8
+Germany,1989,Expected Lifespan,75
+Germany,1990,All Diseases,391.5
+Germany,1990,All Exterrnal Factors,30.7
+Germany,1990,All Suicide,13.7
+Germany,1990,Expected Lifespan,75.2
+Germany,1991,All Diseases,380.8
+Germany,1991,All Exterrnal Factors,31.1
+Germany,1991,All Suicide,13.7
+Germany,1991,Expected Lifespan,75.3
+Germany,1992,All Diseases,361.7
+Germany,1992,All Exterrnal Factors,29.4
+Germany,1992,All Suicide,13
+Germany,1992,Expected Lifespan,75.8
+Germany,1993,All Diseases,361.3
+Germany,1993,All Exterrnal Factors,28
+Germany,1993,All Suicide,12.2
+Germany,1993,Expected Lifespan,75.9
+Germany,1994,All Diseases,349.5
+Germany,1994,All Exterrnal Factors,26.8
+Germany,1994,All Suicide,12.3
+Germany,1994,Expected Lifespan,76.3
+Germany,1995,All Diseases,342.4
+Germany,1995,All Exterrnal Factors,24.8
+Germany,1995,All Suicide,12.4
+Germany,1995,Expected Lifespan,76.4
+Germany,1996,All Diseases,334.8
+Germany,1996,All Exterrnal Factors,24.4
+Germany,1996,All Suicide,11.8
+Germany,1996,Expected Lifespan,76.7
+Germany,1997,All Diseases,321.2
+Germany,1997,All Exterrnal Factors,23.1
+Germany,1997,All Suicide,11.7
+Germany,1997,Expected Lifespan,77.1
+Germany,1998,All Diseases,330.1
+Germany,1998,All Exterrnal Factors,21.2
+Germany,1998,All Suicide,11.2
+Germany,1998,Expected Lifespan,77.5
+Germany,1999,All Diseases,323
+Germany,1999,All Exterrnal Factors,21.2
+Germany,1999,All Suicide,10.6
+Germany,1999,Expected Lifespan,77.7
+Germany,2000,All Diseases,311
+Germany,2000,All Exterrnal Factors,21.2
+Germany,2000,All Suicide,10.4
+Germany,2000,Expected Lifespan,77.9
+Germany,2001,All Diseases,303.5
+Germany,2001,All Exterrnal Factors,20.2
+Germany,2001,All Suicide,10.4
+Germany,2001,Expected Lifespan,78.3
+Germany,2002,All Diseases,307
+Germany,2002,All Exterrnal Factors,20.2
+Germany,2002,All Suicide,10.3
+Germany,2002,Expected Lifespan,78.2
+Germany,2003,All Diseases,311.1
+Germany,2003,All Exterrnal Factors,19.9
+Germany,2003,All Suicide,10.2
+Germany,2003,Expected Lifespan,78.4
+Germany,2004,All Diseases,288.8
+Germany,2004,All Exterrnal Factors,18.5
+Germany,2004,All Suicide,9.7
+Germany,2004,Expected Lifespan,78.7
+Germany,2005,All Diseases,284.5
+Germany,2005,All Exterrnal Factors,17.9
+Germany,2005,All Suicide,9.2
+Germany,2005,Expected Lifespan,78.9
+Germany,2006,All Diseases,270
+Germany,2006,All Exterrnal Factors,17.4
+Germany,2006,All Suicide,8.6
+Germany,2006,Expected Lifespan,79.1
+Germany,2007,All Diseases,263.8
+Germany,2007,All Exterrnal Factors,16.3
+Germany,2007,All Suicide,8.3
+Germany,2007,Expected Lifespan,79.5
+Germany,2008,All Diseases,259.2
+Germany,2008,All Exterrnal Factors,16.2
+Germany,2008,All Suicide,8.4
+Germany,2008,Expected Lifespan,79.7
+Germany,2009,All Diseases,255.6
+Germany,2009,All Exterrnal Factors,15.9
+Germany,2009,All Suicide,8.4
+Germany,2009,Expected Lifespan,79.8
+Germany,2010,All Diseases,247.5
+Germany,2010,All Exterrnal Factors,15.8
+Germany,2010,All Suicide,8.8
+Germany,2010,Expected Lifespan,80
+Germany,2011,All Diseases,236.8
+Germany,2011,All Exterrnal Factors,15.2
+Germany,2011,All Suicide,8.8
+Germany,2011,Expected Lifespan,80.7
+Germany,2012,All Diseases,235
+Germany,2012,All Exterrnal Factors,14.7
+Germany,2012,All Suicide,8.5
+Germany,2012,Expected Lifespan,80.9
+Germany,2013,All Diseases,242.9
+Germany,2013,All Exterrnal Factors,15
+Germany,2013,All Suicide,8.7
+Germany,2013,Expected Lifespan,80.8
+Hungary,1980,All Diseases,673.3
+Hungary,1980,All Exterrnal Factors,59.2
+Hungary,1980,All Suicide,38.9
+Hungary,1980,Expected Lifespan,69.1
+Hungary,1981,All Diseases,662.2
+Hungary,1981,All Exterrnal Factors,60.5
+Hungary,1981,All Suicide,39.3
+Hungary,1981,Expected Lifespan,69.1
+Hungary,1982,All Diseases,655
+Hungary,1982,All Exterrnal Factors,59.5
+Hungary,1982,All Suicide,37.3
+Hungary,1982,Expected Lifespan,69.4
+Hungary,1983,All Diseases,675.9
+Hungary,1983,All Exterrnal Factors,62.2
+Hungary,1983,All Suicide,39.8
+Hungary,1983,Expected Lifespan,69
+Hungary,1984,All Diseases,654.4
+Hungary,1984,All Exterrnal Factors,61.3
+Hungary,1984,All Suicide,39.6
+Hungary,1984,Expected Lifespan,69
+Hungary,1985,All Diseases,652.4
+Hungary,1985,All Exterrnal Factors,65.8
+Hungary,1985,All Suicide,38.1
+Hungary,1985,Expected Lifespan,69
+Hungary,1986,All Diseases,639.6
+Hungary,1986,All Exterrnal Factors,62.3
+Hungary,1986,All Suicide,38.8
+Hungary,1986,Expected Lifespan,69.2
+Hungary,1987,All Diseases,608
+Hungary,1987,All Exterrnal Factors,61
+Hungary,1987,All Suicide,38.6
+Hungary,1987,Expected Lifespan,69.7
+Hungary,1988,All Diseases,590.3
+Hungary,1988,All Exterrnal Factors,59.7
+Hungary,1988,All Suicide,35.2
+Hungary,1988,Expected Lifespan,70
+Hungary,1989,All Diseases,607.8
+Hungary,1989,All Exterrnal Factors,64.2
+Hungary,1989,All Suicide,35.3
+Hungary,1989,Expected Lifespan,69.5
+Hungary,1990,All Diseases,621.1
+Hungary,1990,All Exterrnal Factors,70.9
+Hungary,1990,All Suicide,33.5
+Hungary,1990,Expected Lifespan,69.3
+Hungary,1991,All Diseases,612
+Hungary,1991,All Exterrnal Factors,68.6
+Hungary,1991,All Suicide,32.3
+Hungary,1991,Expected Lifespan,69.4
+Hungary,1992,All Diseases,629
+Hungary,1992,All Exterrnal Factors,69.4
+Hungary,1992,All Suicide,32.5
+Hungary,1992,Expected Lifespan,69.1
+Hungary,1993,All Diseases,642.5
+Hungary,1993,All Exterrnal Factors,64.9
+Hungary,1993,All Suicide,29.8
+Hungary,1993,Expected Lifespan,69.1
+Hungary,1994,All Diseases,612.1
+Hungary,1994,All Exterrnal Factors,61.6
+Hungary,1994,All Suicide,29.1
+Hungary,1994,Expected Lifespan,69.5
+Hungary,1995,All Diseases,595.3
+Hungary,1995,All Exterrnal Factors,59.7
+Hungary,1995,All Suicide,26.6
+Hungary,1995,Expected Lifespan,69.8
+Hungary,1996,All Diseases,589.3
+Hungary,1996,All Exterrnal Factors,53.8
+Hungary,1996,All Suicide,26.9
+Hungary,1996,Expected Lifespan,70.3
+Hungary,1997,All Diseases,565.1
+Hungary,1997,All Exterrnal Factors,51.8
+Hungary,1997,All Suicide,25
+Hungary,1997,Expected Lifespan,70.7
+Hungary,1998,All Diseases,570.9
+Hungary,1998,All Exterrnal Factors,51.8
+Hungary,1998,All Suicide,25.8
+Hungary,1998,Expected Lifespan,70.6
+Hungary,1999,All Diseases,595.4
+Hungary,1999,All Exterrnal Factors,51.8
+Hungary,1999,All Suicide,26.8
+Hungary,1999,Expected Lifespan,70.7
+Hungary,2000,All Diseases,554.1
+Hungary,2000,All Exterrnal Factors,46.2
+Hungary,2000,All Suicide,26.2
+Hungary,2000,Expected Lifespan,71.2
+Hungary,2001,All Diseases,502.2
+Hungary,2001,All Exterrnal Factors,45.2
+Hungary,2001,All Suicide,23.2
+Hungary,2001,Expected Lifespan,72.2
+Hungary,2002,All Diseases,502.8
+Hungary,2002,All Exterrnal Factors,47.3
+Hungary,2002,All Suicide,22.3
+Hungary,2002,Expected Lifespan,72.3
+Hungary,2003,All Diseases,512.4
+Hungary,2003,All Exterrnal Factors,46
+Hungary,2003,All Suicide,21.5
+Hungary,2003,Expected Lifespan,72.3
+Hungary,2004,All Diseases,490
+Hungary,2004,All Exterrnal Factors,44.1
+Hungary,2004,All Suicide,21.3
+Hungary,2004,Expected Lifespan,72.6
+Hungary,2005,All Diseases,512.3
+Hungary,2005,All Exterrnal Factors,38.2
+Hungary,2005,All Suicide,20.1
+Hungary,2005,Expected Lifespan,72.6
+Hungary,2006,All Diseases,475.3
+Hungary,2006,All Exterrnal Factors,37.4
+Hungary,2006,All Suicide,18.8
+Hungary,2006,Expected Lifespan,73.1
+Hungary,2007,All Diseases,471.8
+Hungary,2007,All Exterrnal Factors,35.5
+Hungary,2007,All Suicide,18.4
+Hungary,2007,Expected Lifespan,73.2
+Hungary,2008,All Diseases,445.7
+Hungary,2008,All Exterrnal Factors,33.4
+Hungary,2008,All Suicide,18.6
+Hungary,2008,Expected Lifespan,73.7
+Hungary,2009,All Diseases,437.4
+Hungary,2009,All Exterrnal Factors,31.2
+Hungary,2009,All Suicide,19
+Hungary,2009,Expected Lifespan,73.9
+Hungary,2010,All Diseases,427.7
+Hungary,2010,All Exterrnal Factors,29.9
+Hungary,2010,All Suicide,18.7
+Hungary,2010,Expected Lifespan,74.2
+Hungary,2011,All Diseases,414
+Hungary,2011,All Exterrnal Factors,27.4
+Hungary,2011,All Suicide,18.3
+Hungary,2011,Expected Lifespan,74.9
+Hungary,2012,All Diseases,410.5
+Hungary,2012,All Exterrnal Factors,26.6
+Hungary,2012,All Suicide,17.4
+Hungary,2012,Expected Lifespan,75.1
+Hungary,2013,All Diseases,394
+Hungary,2013,All Exterrnal Factors,25.3
+Hungary,2013,All Suicide,15.3
+Hungary,2013,Expected Lifespan,75.6
+Israel,1980,All Diseases,468.3
+Israel,1980,All Exterrnal Factors,30.7
+Israel,1980,All Suicide,6.6
+Israel,1980,Expected Lifespan,73.9
+Israel,1981,All Diseases,445.8
+Israel,1981,All Exterrnal Factors,27.4
+Israel,1981,All Suicide,5.8
+Israel,1981,Expected Lifespan,74.3
+Israel,1982,All Diseases,471.9
+Israel,1982,All Exterrnal Factors,26.2
+Israel,1982,All Suicide,5.7
+Israel,1982,Expected Lifespan,74.1
+Israel,1983,All Diseases,406.7
+Israel,1983,All Exterrnal Factors,35.7
+Israel,1983,All Suicide,6.5
+Israel,1983,Expected Lifespan,74.5
+Israel,1984,All Diseases,401.3
+Israel,1984,All Exterrnal Factors,36.4
+Israel,1984,All Suicide,5.9
+Israel,1984,Expected Lifespan,74.8
+Israel,1985,All Diseases,397.4
+Israel,1985,All Exterrnal Factors,41.2
+Israel,1985,All Suicide,5.9
+Israel,1985,Expected Lifespan,75.2
+Israel,1986,All Diseases,409.7
+Israel,1986,All Exterrnal Factors,39.9
+Israel,1986,All Suicide,7
+Israel,1986,Expected Lifespan,75
+Israel,1987,All Diseases,391.1
+Israel,1987,All Exterrnal Factors,40.6
+Israel,1987,All Suicide,6.7
+Israel,1987,Expected Lifespan,75.3
+Israel,1988,All Diseases,370.3
+Israel,1988,All Exterrnal Factors,37.2
+Israel,1988,All Suicide,7.5
+Israel,1988,Expected Lifespan,74.4
+Israel,1989,All Diseases,353.7
+Israel,1989,All Exterrnal Factors,35.7
+Israel,1989,All Suicide,8.2
+Israel,1989,Expected Lifespan,76.3
+Israel,1990,All Diseases,335
+Israel,1990,All Exterrnal Factors,32.9
+Israel,1990,All Suicide,7
+Israel,1990,Expected Lifespan,76.6
+Israel,1991,All Diseases,339.3
+Israel,1991,All Exterrnal Factors,28
+Israel,1991,All Suicide,7.7
+Israel,1991,Expected Lifespan,76.8
+Israel,1992,All Diseases,338.5
+Israel,1992,All Exterrnal Factors,29.1
+Israel,1992,All Suicide,7.8
+Israel,1992,Expected Lifespan,76.5
+Israel,1993,All Diseases,318.9
+Israel,1993,All Exterrnal Factors,28.3
+Israel,1993,All Suicide,7.3
+Israel,1993,Expected Lifespan,77.2
+Israel,1994,All Diseases,307.2
+Israel,1994,All Exterrnal Factors,29.1
+Israel,1994,All Suicide,8
+Israel,1994,Expected Lifespan,77.4
+Israel,1995,All Diseases,308.8
+Israel,1995,All Exterrnal Factors,26.8
+Israel,1995,All Suicide,6.6
+Israel,1995,Expected Lifespan,77.5
+Israel,1996,All Diseases,269
+Israel,1996,All Exterrnal Factors,27.2
+Israel,1996,All Suicide,5.4
+Israel,1996,Expected Lifespan,78.1
+Israel,1997,All Diseases,262.3
+Israel,1997,All Exterrnal Factors,23.6
+Israel,1997,All Suicide,6.5
+Israel,1997,Expected Lifespan,78
+Israel,1998,All Diseases,297.7
+Israel,1998,All Exterrnal Factors,26.5
+Israel,1998,All Suicide,5.4
+Israel,1998,Expected Lifespan,78.1
+Israel,1999,All Diseases,295
+Israel,1999,All Exterrnal Factors,27
+Israel,1999,All Suicide,6.1
+Israel,1999,Expected Lifespan,78.7
+Israel,2000,All Diseases,294.1
+Israel,2000,All Exterrnal Factors,25.5
+Israel,2000,All Suicide,6.3
+Israel,2000,Expected Lifespan,79
+Israel,2001,All Diseases,275.6
+Israel,2001,All Exterrnal Factors,27.6
+Israel,2001,All Suicide,6.2
+Israel,2001,Expected Lifespan,79.4
+Israel,2002,All Diseases,272.2
+Israel,2002,All Exterrnal Factors,29.7
+Israel,2002,All Suicide,5.9
+Israel,2002,Expected Lifespan,79.5
+Israel,2003,All Diseases,268.1
+Israel,2003,All Exterrnal Factors,24.5
+Israel,2003,All Suicide,6.4
+Israel,2003,Expected Lifespan,79.6
+Israel,2004,All Diseases,258.1
+Israel,2004,All Exterrnal Factors,23.3
+Israel,2004,All Suicide,6.1
+Israel,2004,Expected Lifespan,80.1
+Israel,2005,All Diseases,256.1
+Israel,2005,All Exterrnal Factors,22.2
+Israel,2005,All Suicide,6.1
+Israel,2005,Expected Lifespan,80.2
+Israel,2006,All Diseases,245.5
+Israel,2006,All Exterrnal Factors,20.3
+Israel,2006,All Suicide,5.3
+Israel,2006,Expected Lifespan,80.6
+Israel,2007,All Diseases,247
+Israel,2007,All Exterrnal Factors,19.6
+Israel,2007,All Suicide,4.6
+Israel,2007,Expected Lifespan,80.5
+Israel,2008,All Diseases,227.6
+Israel,2008,All Exterrnal Factors,19.8
+Israel,2008,All Suicide,4.8
+Israel,2008,Expected Lifespan,81
+Israel,2009,All Diseases,210.3
+Israel,2009,All Exterrnal Factors,17.3
+Israel,2009,All Suicide,5.4
+Israel,2009,Expected Lifespan,81.4
+Israel,2010,All Diseases,202.8
+Israel,2010,All Exterrnal Factors,16.6
+Israel,2010,All Suicide,6.3
+Israel,2010,Expected Lifespan,81.6
+Israel,2011,All Diseases,206
+Israel,2011,All Exterrnal Factors,16.4
+Israel,2011,All Suicide,5.2
+Israel,2011,Expected Lifespan,81.7
+Israel,2012,All Diseases,205.3
+Israel,2012,All Exterrnal Factors,14.1
+Israel,2012,All Suicide,5.4
+Israel,2012,Expected Lifespan,81.7
+Israel,2013,All Diseases,196.3
+Israel,2013,All Exterrnal Factors,14.2
+Israel,2013,All Suicide,4.6
+Israel,2013,Expected Lifespan,82.1
+Italy,1980,All Diseases,432.1
+Italy,1980,All Exterrnal Factors,42.1
+Italy,1980,All Suicide,6.2
+Italy,1980,Expected Lifespan,73.9
+Italy,1981,All Diseases,411
+Italy,1981,All Exterrnal Factors,37.1
+Italy,1981,All Suicide,5.8
+Italy,1981,Expected Lifespan,74.4
+Italy,1982,All Diseases,407.2
+Italy,1982,All Exterrnal Factors,37
+Italy,1982,All Suicide,6.2
+Italy,1982,Expected Lifespan,74.8
+Italy,1983,All Diseases,425.4
+Italy,1983,All Exterrnal Factors,36.2
+Italy,1983,All Suicide,6.3
+Italy,1983,Expected Lifespan,74.6
+Italy,1984,All Diseases,386.9
+Italy,1984,All Exterrnal Factors,32.9
+Italy,1984,All Suicide,6.4
+Italy,1984,Expected Lifespan,75.4
+Italy,1985,All Diseases,381.6
+Italy,1985,All Exterrnal Factors,34
+Italy,1985,All Suicide,6.7
+Italy,1985,Expected Lifespan,75.5
+Italy,1986,All Diseases,366.4
+Italy,1986,All Exterrnal Factors,32.6
+Italy,1986,All Suicide,6.6
+Italy,1986,Expected Lifespan,75.8
+Italy,1987,All Diseases,342.6
+Italy,1987,All Exterrnal Factors,32.3
+Italy,1987,All Suicide,6.3
+Italy,1987,Expected Lifespan,76.2
+Italy,1988,All Diseases,333.1
+Italy,1988,All Exterrnal Factors,32.4
+Italy,1988,All Suicide,6
+Italy,1988,Expected Lifespan,76.4
+Italy,1989,All Diseases,317.9
+Italy,1989,All Exterrnal Factors,31.8
+Italy,1989,All Suicide,6
+Italy,1989,Expected Lifespan,76.8
+Italy,1990,All Diseases,313.7
+Italy,1990,All Exterrnal Factors,32.4
+Italy,1990,All Suicide,6
+Italy,1990,Expected Lifespan,77
+Italy,1991,All Diseases,311.1
+Italy,1991,All Exterrnal Factors,33.6
+Italy,1991,All Suicide,6
+Italy,1991,Expected Lifespan,77
+Italy,1992,All Diseases,302.2
+Italy,1992,All Exterrnal Factors,32.1
+Italy,1992,All Suicide,6.2
+Italy,1992,Expected Lifespan,77.4
+Italy,1993,All Diseases,299.2
+Italy,1993,All Exterrnal Factors,29.9
+Italy,1993,All Suicide,6.4
+Italy,1993,Expected Lifespan,77.7
+Italy,1994,All Diseases,295.9
+Italy,1994,All Exterrnal Factors,28.6
+Italy,1994,All Suicide,6.2
+Italy,1994,Expected Lifespan,77.9
+Italy,1995,All Diseases,289.4
+Italy,1995,All Exterrnal Factors,28.4
+Italy,1995,All Suicide,6.2
+Italy,1995,Expected Lifespan,78.2
+Italy,1996,All Diseases,274.3
+Italy,1996,All Exterrnal Factors,27.4
+Italy,1996,All Suicide,6.3
+Italy,1996,Expected Lifespan,78.5
+Italy,1997,All Diseases,269.1
+Italy,1997,All Exterrnal Factors,27.1
+Italy,1997,All Suicide,6.3
+Italy,1997,Expected Lifespan,78.8
+Italy,1998,All Diseases,269.6
+Italy,1998,All Exterrnal Factors,27.1
+Italy,1998,All Suicide,5.9
+Italy,1998,Expected Lifespan,79
+Italy,1999,All Diseases,258.3
+Italy,1999,All Exterrnal Factors,26.2
+Italy,1999,All Suicide,5.4
+Italy,1999,Expected Lifespan,79.4
+Italy,2000,All Diseases,247
+Italy,2000,All Exterrnal Factors,25
+Italy,2000,All Suicide,5.4
+Italy,2000,Expected Lifespan,79.8
+Italy,2001,All Diseases,233.6
+Italy,2001,All Exterrnal Factors,25.3
+Italy,2001,All Suicide,5.3
+Italy,2001,Expected Lifespan,80.1
+Italy,2002,All Diseases,228.6
+Italy,2002,All Exterrnal Factors,24.8
+Italy,2002,All Suicide,5.3
+Italy,2002,Expected Lifespan,80.2
+Italy,2003,All Diseases,254.8
+Italy,2003,All Exterrnal Factors,23.3
+Italy,2003,All Suicide,5.2
+Italy,2003,Expected Lifespan,80
+Italy,2004,Expected Lifespan,80.8
+Italy,2005,Expected Lifespan,80.8
+Italy,2006,All Diseases,216.1
+Italy,2006,All Exterrnal Factors,21.1
+Italy,2006,All Suicide,4.6
+Italy,2006,Expected Lifespan,81.3
+Italy,2007,All Diseases,213.9
+Italy,2007,All Exterrnal Factors,20.8
+Italy,2007,All Suicide,4.6
+Italy,2007,Expected Lifespan,81.4
+Italy,2008,All Diseases,208.8
+Italy,2008,All Exterrnal Factors,19.3
+Italy,2008,All Suicide,4.8
+Italy,2008,Expected Lifespan,81.5
+Italy,2009,All Diseases,205
+Italy,2009,All Exterrnal Factors,18.5
+Italy,2009,All Suicide,4.8
+Italy,2009,Expected Lifespan,81.6
+Italy,2010,All Diseases,196.3
+Italy,2010,All Exterrnal Factors,17.2
+Italy,2010,All Suicide,4.8
+Italy,2010,Expected Lifespan,82
+Italy,2011,All Diseases,197.6
+Italy,2011,All Exterrnal Factors,16.6
+Italy,2011,All Suicide,5.1
+Italy,2011,Expected Lifespan,82.2
+Italy,2012,All Diseases,199.6
+Italy,2012,All Exterrnal Factors,15.8
+Italy,2012,All Suicide,5.3
+Italy,2012,Expected Lifespan,82.2
+Italy,2013,Expected Lifespan,82.7
+Japan,1980,All Diseases,373.2
+Japan,1980,All Exterrnal Factors,27.4
+Japan,1980,All Suicide,16.5
+Japan,1980,Expected Lifespan,76.1
+Japan,1981,All Diseases,356.1
+Japan,1981,All Exterrnal Factors,27
+Japan,1981,All Suicide,15.8
+Japan,1981,Expected Lifespan,76.4
+Japan,1982,All Diseases,332.6
+Japan,1982,All Exterrnal Factors,26.5
+Japan,1982,All Suicide,16
+Japan,1982,Expected Lifespan,76.9
+Japan,1983,All Diseases,331.1
+Japan,1983,All Exterrnal Factors,26.7
+Japan,1983,All Suicide,19.1
+Japan,1983,Expected Lifespan,77
+Japan,1984,All Diseases,315
+Japan,1984,All Exterrnal Factors,25.8
+Japan,1984,All Suicide,18.2
+Japan,1984,Expected Lifespan,77.4
+Japan,1985,All Diseases,307.7
+Japan,1985,All Exterrnal Factors,25.5
+Japan,1985,All Suicide,17.1
+Japan,1985,Expected Lifespan,77.7
+Japan,1986,All Diseases,290.2
+Japan,1986,All Exterrnal Factors,24.4
+Japan,1986,All Suicide,18.5
+Japan,1986,Expected Lifespan,78.1
+Japan,1987,All Diseases,274.4
+Japan,1987,All Exterrnal Factors,23.5
+Japan,1987,All Suicide,16.8
+Japan,1987,Expected Lifespan,78.5
+Japan,1988,All Diseases,282.2
+Japan,1988,All Exterrnal Factors,24.5
+Japan,1988,All Suicide,15.8
+Japan,1988,Expected Lifespan,78.4
+Japan,1989,All Diseases,266.2
+Japan,1989,All Exterrnal Factors,24.4
+Japan,1989,All Suicide,14.3
+Japan,1989,Expected Lifespan,78.8
+Japan,1990,All Diseases,269.4
+Japan,1990,All Exterrnal Factors,24.6
+Japan,1990,All Suicide,13.4
+Japan,1990,Expected Lifespan,78.8
+Japan,1991,All Diseases,260.9
+Japan,1991,All Exterrnal Factors,24.6
+Japan,1991,All Suicide,13.1
+Japan,1991,Expected Lifespan,79.1
+Japan,1992,All Diseases,257.2
+Japan,1992,All Exterrnal Factors,24.9
+Japan,1992,All Suicide,13.5
+Japan,1992,Expected Lifespan,79.2
+Japan,1993,All Diseases,255.5
+Japan,1993,All Exterrnal Factors,24.3
+Japan,1993,All Suicide,13.1
+Japan,1993,Expected Lifespan,79.3
+Japan,1994,All Diseases,238.5
+Japan,1994,All Exterrnal Factors,24.5
+Japan,1994,All Suicide,13.3
+Japan,1994,Expected Lifespan,79.7
+Japan,1995,All Diseases,248.4
+Japan,1995,All Exterrnal Factors,28.5
+Japan,1995,All Suicide,13.4
+Japan,1995,Expected Lifespan,79.5
+Japan,1996,All Diseases,226.5
+Japan,1996,All Exterrnal Factors,24.2
+Japan,1996,All Suicide,13.7
+Japan,1996,Expected Lifespan,80.2
+Japan,1997,All Diseases,221.7
+Japan,1997,All Exterrnal Factors,23.5
+Japan,1997,All Suicide,14.4
+Japan,1997,Expected Lifespan,80.4
+Japan,1998,All Diseases,214.7
+Japan,1998,All Exterrnal Factors,23.2
+Japan,1998,All Suicide,19.3
+Japan,1998,Expected Lifespan,80.5
+Japan,1999,All Diseases,220.4
+Japan,1999,All Exterrnal Factors,23
+Japan,1999,All Suicide,19
+Japan,1999,Expected Lifespan,80.6
+Japan,2000,All Diseases,202.1
+Japan,2000,All Exterrnal Factors,22.3
+Japan,2000,All Suicide,18.2
+Japan,2000,Expected Lifespan,81.1
+Japan,2001,All Diseases,194.7
+Japan,2001,All Exterrnal Factors,21.8
+Japan,2001,All Suicide,17.6
+Japan,2001,Expected Lifespan,81.4
+Japan,2002,All Diseases,189.6
+Japan,2002,All Exterrnal Factors,21
+Japan,2002,All Suicide,17.9
+Japan,2002,Expected Lifespan,81.6
+Japan,2003,All Diseases,189.7
+Japan,2003,All Exterrnal Factors,20.3
+Japan,2003,All Suicide,19.5
+Japan,2003,Expected Lifespan,81.8
+Japan,2004,All Diseases,183.7
+Japan,2004,All Exterrnal Factors,19.7
+Japan,2004,All Suicide,18.4
+Japan,2004,Expected Lifespan,82
+Japan,2005,All Diseases,188.3
+Japan,2005,All Exterrnal Factors,19.7
+Japan,2005,All Suicide,18.8
+Japan,2005,Expected Lifespan,81.9
+Japan,2006,All Diseases,179.7
+Japan,2006,All Exterrnal Factors,18.3
+Japan,2006,All Suicide,18.4
+Japan,2006,Expected Lifespan,82.3
+Japan,2007,All Diseases,175.8
+Japan,2007,All Exterrnal Factors,17.6
+Japan,2007,All Suicide,18.8
+Japan,2007,Expected Lifespan,82.5
+Japan,2008,All Diseases,174
+Japan,2008,All Exterrnal Factors,16.9
+Japan,2008,All Suicide,18.8
+Japan,2008,Expected Lifespan,82.6
+Japan,2009,All Diseases,166.8
+Japan,2009,All Exterrnal Factors,16.3
+Japan,2009,All Suicide,19.1
+Japan,2009,Expected Lifespan,82.9
+Japan,2010,All Diseases,168.1
+Japan,2010,All Exterrnal Factors,17
+Japan,2010,All Suicide,18.3
+Japan,2010,Expected Lifespan,82.8
+Japan,2011,All Diseases,167.9
+Japan,2011,All Exterrnal Factors,24.9
+Japan,2011,All Suicide,18.2
+Japan,2011,Expected Lifespan,82.6
+Japan,2012,All Diseases,163.4
+Japan,2012,All Exterrnal Factors,15.8
+Japan,2012,All Suicide,16.6
+Japan,2012,Expected Lifespan,83.1
+Japan,2013,All Diseases,157.5
+Japan,2013,All Exterrnal Factors,14.9
+Japan,2013,All Suicide,16.3
+Japan,2013,Expected Lifespan,83.3
+Kuwait,1980,All Diseases,605.7
+Kuwait,1980,All Exterrnal Factors,69.6
+Kuwait,1980,All Suicide,0.9
+Kuwait,1980,Expected Lifespan,69.7
+Kuwait,1981,All Diseases,569.7
+Kuwait,1981,All Exterrnal Factors,61.7
+Kuwait,1981,All Suicide,1
+Kuwait,1981,Expected Lifespan,70.1
+Kuwait,1982,All Diseases,503.3
+Kuwait,1982,All Exterrnal Factors,64.9
+Kuwait,1982,All Suicide,0.1
+Kuwait,1982,Expected Lifespan,70.4
+Kuwait,1983,All Diseases,505.7
+Kuwait,1983,All Exterrnal Factors,72.6
+Kuwait,1983,All Suicide,0.4
+Kuwait,1983,Expected Lifespan,70.7
+Kuwait,1984,All Diseases,445.8
+Kuwait,1984,All Exterrnal Factors,59.2
+Kuwait,1984,All Suicide,0.7
+Kuwait,1984,Expected Lifespan,71
+Kuwait,1985,All Diseases,511
+Kuwait,1985,All Exterrnal Factors,62.6
+Kuwait,1985,All Suicide,1.1
+Kuwait,1985,Expected Lifespan,71.2
+Kuwait,1986,All Diseases,455.3
+Kuwait,1986,All Exterrnal Factors,48.8
+Kuwait,1986,All Suicide,0.8
+Kuwait,1986,Expected Lifespan,71.5
+Kuwait,1987,All Diseases,445
+Kuwait,1987,All Exterrnal Factors,44.1
+Kuwait,1987,All Suicide,1
+Kuwait,1987,Expected Lifespan,71.7
+Kuwait,1988,Expected Lifespan,71.9
+Kuwait,1989,Expected Lifespan,72.1
+Kuwait,1990,Expected Lifespan,72.3
+Kuwait,1991,Expected Lifespan,72.4
+Kuwait,1992,Expected Lifespan,72.6
+Kuwait,1993,All Diseases,460.6
+Kuwait,1993,All Exterrnal Factors,51.8
+Kuwait,1993,All Suicide,1.2
+Kuwait,1993,Expected Lifespan,72.7
+Kuwait,1994,All Diseases,463.7
+Kuwait,1994,All Exterrnal Factors,38.2
+Kuwait,1994,All Suicide,1.4
+Kuwait,1994,Expected Lifespan,72.8
+Kuwait,1995,All Diseases,579.1
+Kuwait,1995,All Exterrnal Factors,41.2
+Kuwait,1995,All Suicide,1.4
+Kuwait,1995,Expected Lifespan,72.9
+Kuwait,1996,All Diseases,556.3
+Kuwait,1996,All Exterrnal Factors,38.7
+Kuwait,1996,All Suicide,1.5
+Kuwait,1996,Expected Lifespan,73
+Kuwait,1997,All Diseases,560.6
+Kuwait,1997,All Exterrnal Factors,42.1
+Kuwait,1997,All Suicide,1.6
+Kuwait,1997,Expected Lifespan,73.1
+Kuwait,1998,All Diseases,503.6
+Kuwait,1998,All Exterrnal Factors,33.2
+Kuwait,1998,All Suicide,1.3
+Kuwait,1998,Expected Lifespan,73.2
+Kuwait,1999,All Diseases,466.5
+Kuwait,1999,All Exterrnal Factors,34.8
+Kuwait,1999,All Suicide,1.5
+Kuwait,1999,Expected Lifespan,73.2
+Kuwait,2000,All Diseases,438.8
+Kuwait,2000,All Exterrnal Factors,37.4
+Kuwait,2000,All Suicide,1.2
+Kuwait,2000,Expected Lifespan,73.3
+Kuwait,2001,All Diseases,409.8
+Kuwait,2001,All Exterrnal Factors,30.8
+Kuwait,2001,All Suicide,1
+Kuwait,2001,Expected Lifespan,73.4
+Kuwait,2002,All Diseases,394.7
+Kuwait,2002,All Exterrnal Factors,29.6
+Kuwait,2002,All Suicide,1.5
+Kuwait,2002,Expected Lifespan,73.5
+Kuwait,2003,All Diseases,456.8
+Kuwait,2003,All Exterrnal Factors,36.4
+Kuwait,2003,All Suicide,1.6
+Kuwait,2003,Expected Lifespan,73.5
+Kuwait,2004,All Diseases,461.5
+Kuwait,2004,All Exterrnal Factors,42.9
+Kuwait,2004,All Suicide,1.6
+Kuwait,2004,Expected Lifespan,73.6
+Kuwait,2005,All Diseases,432.4
+Kuwait,2005,All Exterrnal Factors,38.4
+Kuwait,2005,All Suicide,1.8
+Kuwait,2005,Expected Lifespan,73.7
+Kuwait,2006,All Diseases,442.5
+Kuwait,2006,All Exterrnal Factors,35.7
+Kuwait,2006,All Suicide,1.5
+Kuwait,2006,Expected Lifespan,73.7
+Kuwait,2007,All Diseases,328.9
+Kuwait,2007,All Exterrnal Factors,27.1
+Kuwait,2007,All Suicide,1.1
+Kuwait,2007,Expected Lifespan,73.8
+Kuwait,2008,All Diseases,339.9
+Kuwait,2008,All Exterrnal Factors,26.3
+Kuwait,2008,All Suicide,1
+Kuwait,2008,Expected Lifespan,73.9
+Kuwait,2009,All Diseases,347
+Kuwait,2009,All Exterrnal Factors,27.4
+Kuwait,2009,All Suicide,1.3
+Kuwait,2009,Expected Lifespan,74
+Kuwait,2010,All Diseases,315.2
+Kuwait,2010,All Exterrnal Factors,21.5
+Kuwait,2010,All Suicide,0.9
+Kuwait,2010,Expected Lifespan,74.1
+Kuwait,2011,All Diseases,288.4
+Kuwait,2011,All Exterrnal Factors,21.5
+Kuwait,2011,All Suicide,0.9
+Kuwait,2011,Expected Lifespan,74.2
+Kuwait,2012,All Diseases,306.5
+Kuwait,2012,All Exterrnal Factors,26.5
+Kuwait,2012,All Suicide,1.5
+Kuwait,2012,Expected Lifespan,74.4
+Kuwait,2013,All Diseases,284.3
+Kuwait,2013,All Exterrnal Factors,22
+Kuwait,2013,All Suicide,0.9
+Kuwait,2013,Expected Lifespan,74.5
+Mexico,1980,All Diseases,414.8
+Mexico,1980,All Exterrnal Factors,118.8
+Mexico,1980,All Suicide,1.8
+Mexico,1980,Expected Lifespan,66.6
+Mexico,1981,All Diseases,530.1
+Mexico,1981,All Exterrnal Factors,122.4
+Mexico,1981,All Suicide,2.2
+Mexico,1981,Expected Lifespan,67
+Mexico,1982,All Diseases,513.5
+Mexico,1982,All Exterrnal Factors,117.8
+Mexico,1982,All Suicide,2.1
+Mexico,1982,Expected Lifespan,67.5
+Mexico,1983,All Diseases,538.4
+Mexico,1983,All Exterrnal Factors,106.1
+Mexico,1983,All Suicide,1.9
+Mexico,1983,Expected Lifespan,67.9
+Mexico,1984,All Diseases,363.8
+Mexico,1984,All Exterrnal Factors,95
+Mexico,1984,All Suicide,1.5
+Mexico,1984,Expected Lifespan,68.4
+Mexico,1985,All Diseases,492.7
+Mexico,1985,All Exterrnal Factors,100.8
+Mexico,1985,All Suicide,2.5
+Mexico,1985,Expected Lifespan,68.8
+Mexico,1986,All Diseases,465.5
+Mexico,1986,All Exterrnal Factors,97
+Mexico,1986,All Suicide,2.7
+Mexico,1986,Expected Lifespan,69.2
+Mexico,1987,All Diseases,460.1
+Mexico,1987,All Exterrnal Factors,94.4
+Mexico,1987,All Suicide,2.7
+Mexico,1987,Expected Lifespan,69.6
+Mexico,1988,All Diseases,462.1
+Mexico,1988,All Exterrnal Factors,90.4
+Mexico,1988,All Suicide,2.6
+Mexico,1988,Expected Lifespan,70
+Mexico,1989,All Diseases,459.1
+Mexico,1989,All Exterrnal Factors,86.2
+Mexico,1989,All Suicide,2.9
+Mexico,1989,Expected Lifespan,70.4
+Mexico,1990,All Diseases,449.8
+Mexico,1990,All Exterrnal Factors,82.7
+Mexico,1990,All Suicide,2.8
+Mexico,1990,Expected Lifespan,70.8
+Mexico,1991,All Diseases,427.4
+Mexico,1991,All Exterrnal Factors,80
+Mexico,1991,All Suicide,3
+Mexico,1991,Expected Lifespan,71.2
+Mexico,1992,All Diseases,435.7
+Mexico,1992,All Exterrnal Factors,80.9
+Mexico,1992,All Suicide,3.1
+Mexico,1992,Expected Lifespan,71.6
+Mexico,1993,All Diseases,440.4
+Mexico,1993,All Exterrnal Factors,76.5
+Mexico,1993,All Suicide,3.2
+Mexico,1993,Expected Lifespan,72
+Mexico,1994,All Diseases,438.1
+Mexico,1994,All Exterrnal Factors,75.2
+Mexico,1994,All Suicide,3.4
+Mexico,1994,Expected Lifespan,72.4
+Mexico,1995,All Diseases,438.6
+Mexico,1995,All Exterrnal Factors,70.5
+Mexico,1995,All Suicide,3.6
+Mexico,1995,Expected Lifespan,72.7
+Mexico,1996,All Diseases,367.5
+Mexico,1996,All Exterrnal Factors,63.9
+Mexico,1996,All Suicide,3.6
+Mexico,1996,Expected Lifespan,73.1
+Mexico,1997,All Diseases,360.2
+Mexico,1997,All Exterrnal Factors,61.8
+Mexico,1997,All Suicide,3.8
+Mexico,1997,Expected Lifespan,73.4
+Mexico,1998,All Diseases,446.2
+Mexico,1998,All Exterrnal Factors,60.6
+Mexico,1998,All Suicide,3.6
+Mexico,1998,Expected Lifespan,73.8
+Mexico,1999,All Diseases,435.1
+Mexico,1999,All Exterrnal Factors,57.9
+Mexico,1999,All Suicide,3.6
+Mexico,1999,Expected Lifespan,74
+Mexico,2000,All Diseases,419
+Mexico,2000,All Exterrnal Factors,54.1
+Mexico,2000,All Suicide,3.7
+Mexico,2000,Expected Lifespan,74.3
+Mexico,2001,All Diseases,413.7
+Mexico,2001,All Exterrnal Factors,51.5
+Mexico,2001,All Suicide,3.9
+Mexico,2001,Expected Lifespan,74.5
+Mexico,2002,All Diseases,420
+Mexico,2002,All Exterrnal Factors,51.1
+Mexico,2002,All Suicide,3.9
+Mexico,2002,Expected Lifespan,74.7
+Mexico,2003,All Diseases,426.6
+Mexico,2003,All Exterrnal Factors,50.1
+Mexico,2003,All Suicide,4.1
+Mexico,2003,Expected Lifespan,74.9
+Mexico,2004,All Diseases,417.7
+Mexico,2004,All Exterrnal Factors,48.4
+Mexico,2004,All Suicide,4
+Mexico,2004,Expected Lifespan,75.1
+Mexico,2005,All Diseases,429.2
+Mexico,2005,All Exterrnal Factors,48.9
+Mexico,2005,All Suicide,4.2
+Mexico,2005,Expected Lifespan,75.3
+Mexico,2006,All Diseases,411.4
+Mexico,2006,All Exterrnal Factors,49.3
+Mexico,2006,All Suicide,4
+Mexico,2006,Expected Lifespan,75.4
+Mexico,2007,All Diseases,407.6
+Mexico,2007,All Exterrnal Factors,46.8
+Mexico,2007,All Suicide,4
+Mexico,2007,Expected Lifespan,75.6
+Mexico,2008,All Diseases,419.9
+Mexico,2008,All Exterrnal Factors,51.5
+Mexico,2008,All Suicide,4.2
+Mexico,2008,Expected Lifespan,75.7
+Mexico,2009,All Diseases,412.7
+Mexico,2009,All Exterrnal Factors,53.7
+Mexico,2009,All Suicide,4.5
+Mexico,2009,Expected Lifespan,75.9
+Mexico,2010,All Diseases,419.3
+Mexico,2010,All Exterrnal Factors,56.7
+Mexico,2010,All Suicide,4.2
+Mexico,2010,Expected Lifespan,76
+Mexico,2011,All Diseases,398.6
+Mexico,2011,All Exterrnal Factors,56
+Mexico,2011,All Suicide,4.7
+Mexico,2011,Expected Lifespan,76.2
+Mexico,2012,All Diseases,396.8
+Mexico,2012,All Exterrnal Factors,53.8
+Mexico,2012,All Suicide,4.5
+Mexico,2012,Expected Lifespan,76.4
+Mexico,2013,All Diseases,395.8
+Mexico,2013,All Exterrnal Factors,49.6
+Mexico,2013,All Suicide,4.7
+Mexico,2013,Expected Lifespan,76.5
+Russia,1980,All Diseases,687.3
+Russia,1980,All Exterrnal Factors,116
+Russia,1980,All Suicide,32.6
+Russia,1980,Expected Lifespan,67
+Russia,1981,All Diseases,664.9
+Russia,1981,All Exterrnal Factors,115.7
+Russia,1981,All Suicide,31.9
+Russia,1981,Expected Lifespan,67.3
+Russia,1982,All Diseases,638.4
+Russia,1982,All Exterrnal Factors,107
+Russia,1982,All Suicide,32.3
+Russia,1982,Expected Lifespan,67.8
+Russia,1983,All Diseases,656.2
+Russia,1983,All Exterrnal Factors,93.5
+Russia,1983,Expected Lifespan,67.7
+Russia,1984,All Diseases,689.2
+Russia,1984,All Exterrnal Factors,97
+Russia,1984,Expected Lifespan,67.2
+Russia,1985,All Diseases,678.9
+Russia,1985,All Exterrnal Factors,94.4
+Russia,1985,All Suicide,29
+Russia,1985,Expected Lifespan,67.9
+Russia,1986,All Diseases,615.2
+Russia,1986,All Exterrnal Factors,77.4
+Russia,1986,All Suicide,21.4
+Russia,1986,Expected Lifespan,69.4
+Russia,1987,All Diseases,617.5
+Russia,1987,All Exterrnal Factors,75.1
+Russia,1987,All Suicide,21.5
+Russia,1987,Expected Lifespan,69.4
+Russia,1988,All Diseases,616.9
+Russia,1988,All Exterrnal Factors,83.2
+Russia,1988,All Suicide,22.5
+Russia,1988,Expected Lifespan,69.5
+Russia,1989,All Diseases,594
+Russia,1989,All Exterrnal Factors,96.5
+Russia,1989,All Suicide,23.9
+Russia,1989,Expected Lifespan,69.2
+Russia,1990,All Diseases,598.5
+Russia,1990,All Exterrnal Factors,102.8
+Russia,1990,All Suicide,24.6
+Russia,1990,Expected Lifespan,68.9
+Russia,1991,All Diseases,588.3
+Russia,1991,All Exterrnal Factors,110.7
+Russia,1991,All Suicide,24.6
+Russia,1991,Expected Lifespan,68.5
+Russia,1992,All Diseases,607.4
+Russia,1992,All Exterrnal Factors,134.3
+Russia,1992,All Suicide,28.6
+Russia,1992,Expected Lifespan,66.9
+Russia,1993,All Diseases,718.2
+Russia,1993,All Exterrnal Factors,175.9
+Russia,1993,All Suicide,35.2
+Russia,1993,Expected Lifespan,64.9
+Russia,1994,All Diseases,777.5
+Russia,1994,All Exterrnal Factors,190.1
+Russia,1994,All Suicide,38.7
+Russia,1994,Expected Lifespan,64.5
+Russia,1995,All Diseases,733
+Russia,1995,All Exterrnal Factors,179.5
+Russia,1995,All Suicide,38.1
+Russia,1995,Expected Lifespan,65.2
+Russia,1996,All Diseases,690.9
+Russia,1996,All Exterrnal Factors,155.9
+Russia,1996,All Suicide,36.1
+Russia,1996,Expected Lifespan,66.2
+Russia,1997,All Diseases,667
+Russia,1997,All Exterrnal Factors,137.9
+Russia,1997,All Suicide,34.1
+Russia,1997,Expected Lifespan,67
+Russia,1998,All Diseases,647.3
+Russia,1998,All Exterrnal Factors,139.3
+Russia,1998,All Suicide,31.9
+Russia,1998,Expected Lifespan,66.8
+Russia,1999,All Diseases,719.2
+Russia,1999,All Exterrnal Factors,151.4
+Russia,1999,All Suicide,35.1
+Russia,1999,Expected Lifespan,66
+Russia,2000,All Diseases,741.9
+Russia,2000,All Exterrnal Factors,162.3
+Russia,2000,All Suicide,35
+Russia,2000,Expected Lifespan,65.3
+Russia,2001,All Diseases,745.2
+Russia,2001,All Exterrnal Factors,167.5
+Russia,2001,All Suicide,35.3
+Russia,2001,Expected Lifespan,65.5
+Russia,2002,All Diseases,773.4
+Russia,2002,All Exterrnal Factors,171.5
+Russia,2002,All Suicide,33.9
+Russia,2002,Expected Lifespan,65.1
+Russia,2003,All Diseases,801.6
+Russia,2003,All Exterrnal Factors,169.8
+Russia,2003,All Suicide,31.3
+Russia,2003,Expected Lifespan,65
+Russia,2004,All Diseases,771.9
+Russia,2004,All Exterrnal Factors,165.6
+Russia,2004,All Suicide,29.7
+Russia,2004,Expected Lifespan,65.4
+Russia,2005,All Diseases,780.2
+Russia,2005,All Exterrnal Factors,160.7
+Russia,2005,All Suicide,27.7
+Russia,2005,Expected Lifespan,65.5
+Russia,2006,All Diseases,725.7
+Russia,2006,All Exterrnal Factors,143.3
+Russia,2006,All Suicide,25.8
+Russia,2006,Expected Lifespan,66.6
+Russia,2007,All Diseases,685.6
+Russia,2007,All Exterrnal Factors,130.8
+Russia,2007,All Suicide,25
+Russia,2007,Expected Lifespan,67.5
+Russia,2008,All Diseases,678.2
+Russia,2008,All Exterrnal Factors,122.7
+Russia,2008,All Suicide,23.2
+Russia,2008,Expected Lifespan,67.8
+Russia,2009,All Diseases,645
+Russia,2009,All Exterrnal Factors,110.9
+Russia,2009,All Suicide,22.8
+Russia,2009,Expected Lifespan,68.6
+Russia,2010,All Diseases,636.8
+Russia,2010,All Exterrnal Factors,108
+Russia,2010,All Suicide,20.2
+Russia,2010,Expected Lifespan,68.9
+Russia,2011,All Diseases,589
+Russia,2011,All Exterrnal Factors,98.6
+Russia,2011,All Suicide,18.8
+Russia,2011,Expected Lifespan,69.7
+Russia,2012,Expected Lifespan,70.4
+Russia,2013,Expected Lifespan,70.4
+South Africa,1980,Expected Lifespan,57
+South Africa,1981,Expected Lifespan,57.6
+South Africa,1982,Expected Lifespan,58.2
+South Africa,1983,Expected Lifespan,58.8
+South Africa,1984,Expected Lifespan,59.4
+South Africa,1985,Expected Lifespan,59.9
+South Africa,1986,Expected Lifespan,60.4
+South Africa,1987,Expected Lifespan,61
+South Africa,1988,Expected Lifespan,61.4
+South Africa,1989,Expected Lifespan,61.8
+South Africa,1990,Expected Lifespan,62.1
+South Africa,1991,Expected Lifespan,62.3
+South Africa,1992,Expected Lifespan,62.3
+South Africa,1993,Expected Lifespan,62.2
+South Africa,1994,Expected Lifespan,61.9
+South Africa,1995,Expected Lifespan,61.4
+South Africa,1996,Expected Lifespan,60.6
+South Africa,1997,Expected Lifespan,59.6
+South Africa,1998,Expected Lifespan,58.4
+South Africa,1999,Expected Lifespan,57.2
+South Africa,2000,Expected Lifespan,55.8
+South Africa,2001,Expected Lifespan,54.6
+South Africa,2002,All Diseases,1010.4
+South Africa,2002,All Exterrnal Factors,124.7
+South Africa,2002,All Suicide,0.5
+South Africa,2002,Expected Lifespan,53.4
+South Africa,2003,All Diseases,1094.2
+South Africa,2003,All Exterrnal Factors,123.8
+South Africa,2003,All Suicide,0.6
+South Africa,2003,Expected Lifespan,52.5
+South Africa,2004,All Diseases,1077.1
+South Africa,2004,All Exterrnal Factors,120.9
+South Africa,2004,All Suicide,0.9
+South Africa,2004,Expected Lifespan,51.9
+South Africa,2005,All Diseases,1094
+South Africa,2005,All Exterrnal Factors,119.3
+South Africa,2005,All Suicide,1
+South Africa,2005,Expected Lifespan,51.6
+South Africa,2006,All Diseases,1138.8
+South Africa,2006,All Exterrnal Factors,115.2
+South Africa,2006,All Suicide,1.1
+South Africa,2006,Expected Lifespan,51.6
+South Africa,2007,All Diseases,1091.6
+South Africa,2007,All Exterrnal Factors,117.4
+South Africa,2007,All Suicide,0.9
+South Africa,2007,Expected Lifespan,52
+South Africa,2008,All Diseases,1105.1
+South Africa,2008,All Exterrnal Factors,117
+South Africa,2008,All Suicide,1
+South Africa,2008,Expected Lifespan,52.6
+South Africa,2009,All Diseases,1023.2
+South Africa,2009,All Exterrnal Factors,103.7
+South Africa,2009,All Suicide,0.8
+South Africa,2009,Expected Lifespan,53.5
+South Africa,2010,All Diseases,940.4
+South Africa,2010,All Exterrnal Factors,98.7
+South Africa,2010,All Suicide,0.8
+South Africa,2010,Expected Lifespan,54.4
+South Africa,2011,All Diseases,859.9
+South Africa,2011,All Exterrnal Factors,93.5
+South Africa,2011,All Suicide,0.7
+South Africa,2011,Expected Lifespan,55.3
+South Africa,2012,All Diseases,783.9
+South Africa,2012,All Exterrnal Factors,94.4
+South Africa,2012,All Suicide,0.9
+South Africa,2012,Expected Lifespan,56.1
+South Africa,2013,All Diseases,723.8
+South Africa,2013,All Exterrnal Factors,90.5
+South Africa,2013,All Suicide,1.1
+South Africa,2013,Expected Lifespan,56.7
+South Korea,1980,Expected Lifespan,65.8
+South Korea,1981,Expected Lifespan,66.3
+South Korea,1982,Expected Lifespan,66.8
+South Korea,1983,Expected Lifespan,67.2
+South Korea,1984,Expected Lifespan,67.9
+South Korea,1985,All Diseases,413
+South Korea,1985,All Exterrnal Factors,52.5
+South Korea,1985,All Suicide,9.9
+South Korea,1985,Expected Lifespan,68.5
+South Korea,1986,All Diseases,382.6
+South Korea,1986,All Exterrnal Factors,51.5
+South Korea,1986,All Suicide,9
+South Korea,1986,Expected Lifespan,69.2
+South Korea,1987,All Diseases,362.6
+South Korea,1987,All Exterrnal Factors,58.3
+South Korea,1987,All Suicide,8.5
+South Korea,1987,Expected Lifespan,69.8
+South Korea,1988,All Diseases,334.8
+South Korea,1988,All Exterrnal Factors,59.7
+South Korea,1988,All Suicide,7.3
+South Korea,1988,Expected Lifespan,70.3
+South Korea,1989,All Diseases,326.5
+South Korea,1989,All Exterrnal Factors,63.7
+South Korea,1989,All Suicide,7.4
+South Korea,1989,Expected Lifespan,70.9
+South Korea,1990,All Diseases,317.9
+South Korea,1990,All Exterrnal Factors,67
+South Korea,1990,All Suicide,7.6
+South Korea,1990,Expected Lifespan,71.3
+South Korea,1991,All Diseases,312.5
+South Korea,1991,All Exterrnal Factors,70.9
+South Korea,1991,All Suicide,7.2
+South Korea,1991,Expected Lifespan,71.7
+South Korea,1992,All Diseases,333.9
+South Korea,1992,All Exterrnal Factors,70.1
+South Korea,1992,All Suicide,8.2
+South Korea,1992,Expected Lifespan,72.2
+South Korea,1993,All Diseases,359.8
+South Korea,1993,All Exterrnal Factors,68.4
+South Korea,1993,All Suicide,9.5
+South Korea,1993,Expected Lifespan,72.7
+South Korea,1994,All Diseases,370.9
+South Korea,1994,All Exterrnal Factors,66.4
+South Korea,1994,All Suicide,9.6
+South Korea,1994,Expected Lifespan,73
+South Korea,1995,All Diseases,334
+South Korea,1995,All Exterrnal Factors,67.4
+South Korea,1995,All Suicide,10.7
+South Korea,1995,Expected Lifespan,73.4
+South Korea,1996,All Diseases,302.5
+South Korea,1996,All Exterrnal Factors,64
+South Korea,1996,All Suicide,12.7
+South Korea,1996,Expected Lifespan,73.8
+South Korea,1997,All Diseases,287.2
+South Korea,1997,All Exterrnal Factors,58.7
+South Korea,1997,All Suicide,12.8
+South Korea,1997,Expected Lifespan,74.2
+South Korea,1998,All Diseases,294.8
+South Korea,1998,All Exterrnal Factors,52
+South Korea,1998,All Suicide,17.9
+South Korea,1998,Expected Lifespan,74.7
+South Korea,1999,All Diseases,284.2
+South Korea,1999,All Exterrnal Factors,49.8
+South Korea,1999,All Suicide,14.6
+South Korea,1999,Expected Lifespan,75.4
+South Korea,2000,All Diseases,290.5
+South Korea,2000,All Exterrnal Factors,48
+South Korea,2000,All Suicide,13.1
+South Korea,2000,Expected Lifespan,75.8
+South Korea,2001,All Diseases,277.8
+South Korea,2001,All Exterrnal Factors,46.9
+South Korea,2001,All Suicide,13.9
+South Korea,2001,Expected Lifespan,76.3
+South Korea,2002,All Diseases,282.9
+South Korea,2002,All Exterrnal Factors,43.1
+South Korea,2002,All Suicide,17.1
+South Korea,2002,Expected Lifespan,76.8
+South Korea,2003,All Diseases,257
+South Korea,2003,All Exterrnal Factors,42.6
+South Korea,2003,All Suicide,21.1
+South Korea,2003,Expected Lifespan,77.3
+South Korea,2004,All Diseases,237.6
+South Korea,2004,All Exterrnal Factors,38.3
+South Korea,2004,All Suicide,21.8
+South Korea,2004,Expected Lifespan,77.8
+South Korea,2005,All Diseases,223.3
+South Korea,2005,All Exterrnal Factors,37
+South Korea,2005,All Suicide,22.3
+South Korea,2005,Expected Lifespan,78.4
+South Korea,2006,All Diseases,213.6
+South Korea,2006,All Exterrnal Factors,36.1
+South Korea,2006,All Suicide,19.3
+South Korea,2006,Expected Lifespan,79
+South Korea,2007,All Diseases,211.1
+South Korea,2007,All Exterrnal Factors,33.3
+South Korea,2007,All Suicide,21.8
+South Korea,2007,Expected Lifespan,79.3
+South Korea,2008,All Diseases,198.3
+South Korea,2008,All Exterrnal Factors,31.7
+South Korea,2008,All Suicide,22.4
+South Korea,2008,Expected Lifespan,79.8
+South Korea,2009,All Diseases,188.8
+South Korea,2009,All Exterrnal Factors,30
+South Korea,2009,All Suicide,26.3
+South Korea,2009,Expected Lifespan,80.3
+South Korea,2010,All Diseases,189.3
+South Korea,2010,All Exterrnal Factors,28.7
+South Korea,2010,All Suicide,25.9
+South Korea,2010,Expected Lifespan,80.6
+South Korea,2011,All Diseases,185.5
+South Korea,2011,All Exterrnal Factors,26.7
+South Korea,2011,All Suicide,25.9
+South Korea,2011,Expected Lifespan,81
+South Korea,2012,All Diseases,188
+South Korea,2012,All Exterrnal Factors,26.5
+South Korea,2012,All Suicide,22.6
+South Korea,2012,Expected Lifespan,81.2
+South Korea,2013,All Diseases,175.5
+South Korea,2013,All Exterrnal Factors,25
+South Korea,2013,All Suicide,22.5
+South Korea,2013,Expected Lifespan,81.7
+Sweden,1980,Expected Lifespan,75.7
+Sweden,1981,Expected Lifespan,76
+Sweden,1982,Expected Lifespan,76.3
+Sweden,1983,Expected Lifespan,76.6
+Sweden,1984,Expected Lifespan,76.8
+Sweden,1985,Expected Lifespan,76.7
+Sweden,1986,Expected Lifespan,76.9
+Sweden,1987,All Diseases,351.3
+Sweden,1987,All Exterrnal Factors,30.3
+Sweden,1987,All Suicide,15.7
+Sweden,1987,Expected Lifespan,77.1
+Sweden,1988,All Diseases,354.4
+Sweden,1988,All Exterrnal Factors,31.2
+Sweden,1988,All Suicide,16.2
+Sweden,1988,Expected Lifespan,77
+Sweden,1989,All Diseases,323.9
+Sweden,1989,All Exterrnal Factors,30.4
+Sweden,1989,All Suicide,16
+Sweden,1989,Expected Lifespan,77.7
+Sweden,1990,All Diseases,326.2
+Sweden,1990,All Exterrnal Factors,29.3
+Sweden,1990,All Suicide,14.3
+Sweden,1990,Expected Lifespan,77.5
+Sweden,1991,All Diseases,320.3
+Sweden,1991,All Exterrnal Factors,27.8
+Sweden,1991,All Suicide,14.6
+Sweden,1991,Expected Lifespan,77.7
+Sweden,1992,All Diseases,311.7
+Sweden,1992,All Exterrnal Factors,25.9
+Sweden,1992,All Suicide,13
+Sweden,1992,Expected Lifespan,78
+Sweden,1993,All Diseases,314.4
+Sweden,1993,All Exterrnal Factors,24.7
+Sweden,1993,All Suicide,13.3
+Sweden,1993,Expected Lifespan,78.1
+Sweden,1994,All Diseases,288.1
+Sweden,1994,All Exterrnal Factors,27
+Sweden,1994,All Suicide,12.4
+Sweden,1994,Expected Lifespan,78.7
+Sweden,1995,All Diseases,289.6
+Sweden,1995,All Exterrnal Factors,22.8
+Sweden,1995,All Suicide,12.8
+Sweden,1995,Expected Lifespan,78.7
+Sweden,1996,All Diseases,283.4
+Sweden,1996,All Exterrnal Factors,21.9
+Sweden,1996,All Suicide,11.8
+Sweden,1996,Expected Lifespan,79
+Sweden,1997,All Diseases,283.6
+Sweden,1997,All Exterrnal Factors,22.3
+Sweden,1997,All Suicide,11.6
+Sweden,1997,Expected Lifespan,79.2
+Sweden,1998,All Diseases,277.5
+Sweden,1998,All Exterrnal Factors,22.7
+Sweden,1998,All Suicide,11.4
+Sweden,1998,Expected Lifespan,79.3
+Sweden,1999,All Diseases,278.1
+Sweden,1999,All Exterrnal Factors,21.2
+Sweden,1999,All Suicide,11.6
+Sweden,1999,Expected Lifespan,79.4
+Sweden,2000,All Diseases,265.9
+Sweden,2000,All Exterrnal Factors,21.9
+Sweden,2000,All Suicide,10.5
+Sweden,2000,Expected Lifespan,79.6
+Sweden,2001,All Diseases,259.5
+Sweden,2001,All Exterrnal Factors,24.7
+Sweden,2001,All Suicide,10.8
+Sweden,2001,Expected Lifespan,79.8
+Sweden,2002,All Diseases,259.1
+Sweden,2002,All Exterrnal Factors,23.8
+Sweden,2002,All Suicide,11
+Sweden,2002,Expected Lifespan,79.8
+Sweden,2003,All Diseases,250.9
+Sweden,2003,All Exterrnal Factors,23.2
+Sweden,2003,All Suicide,10.4
+Sweden,2003,Expected Lifespan,80.1
+Sweden,2004,All Diseases,235.4
+Sweden,2004,All Exterrnal Factors,28.1
+Sweden,2004,All Suicide,10.7
+Sweden,2004,Expected Lifespan,80.5
+Sweden,2005,All Diseases,233.3
+Sweden,2005,All Exterrnal Factors,22.6
+Sweden,2005,All Suicide,11.1
+Sweden,2005,Expected Lifespan,80.5
+Sweden,2006,All Diseases,227
+Sweden,2006,All Exterrnal Factors,21.6
+Sweden,2006,All Suicide,10.9
+Sweden,2006,Expected Lifespan,80.7
+Sweden,2007,All Diseases,223.8
+Sweden,2007,All Exterrnal Factors,23.3
+Sweden,2007,All Suicide,10.3
+Sweden,2007,Expected Lifespan,80.9
+Sweden,2008,All Diseases,221
+Sweden,2008,All Exterrnal Factors,22.3
+Sweden,2008,All Suicide,10.6
+Sweden,2008,Expected Lifespan,81.1
+Sweden,2009,All Diseases,212.4
+Sweden,2009,All Exterrnal Factors,21.1
+Sweden,2009,All Suicide,11.2
+Sweden,2009,Expected Lifespan,81.4
+Sweden,2010,All Diseases,206.3
+Sweden,2010,All Exterrnal Factors,20.3
+Sweden,2010,All Suicide,10.1
+Sweden,2010,Expected Lifespan,81.5
+Sweden,2011,All Diseases,201.4
+Sweden,2011,All Exterrnal Factors,19.9
+Sweden,2011,All Suicide,10
+Sweden,2011,Expected Lifespan,81.8
+Sweden,2012,All Diseases,204.5
+Sweden,2012,All Exterrnal Factors,20.3
+Sweden,2012,All Suicide,10
+Sweden,2012,Expected Lifespan,81.7
+Sweden,2013,All Diseases,197.8
+Sweden,2013,All Exterrnal Factors,20.4
+Sweden,2013,All Suicide,10.7
+Sweden,2013,Expected Lifespan,82
+Thailand,1980,All Diseases,229.7
+Thailand,1980,All Exterrnal Factors,69.9
+Thailand,1980,All Suicide,8.2
+Thailand,1980,Expected Lifespan,64.4
+Thailand,1981,All Diseases,198.5
+Thailand,1981,All Exterrnal Factors,65.7
+Thailand,1981,All Suicide,7.6
+Thailand,1981,Expected Lifespan,65
+Thailand,1982,All Diseases,206.3
+Thailand,1982,All Exterrnal Factors,59.6
+Thailand,1982,All Suicide,7
+Thailand,1982,Expected Lifespan,65.6
+Thailand,1983,All Diseases,199.8
+Thailand,1983,All Exterrnal Factors,54.9
+Thailand,1983,All Suicide,6.8
+Thailand,1983,Expected Lifespan,66.4
+Thailand,1984,All Diseases,180.1
+Thailand,1984,All Exterrnal Factors,49.1
+Thailand,1984,All Suicide,6.2
+Thailand,1984,Expected Lifespan,67.1
+Thailand,1985,All Diseases,174.4
+Thailand,1985,All Exterrnal Factors,43.5
+Thailand,1985,All Suicide,6.1
+Thailand,1985,Expected Lifespan,67.9
+Thailand,1986,All Diseases,165.5
+Thailand,1986,All Exterrnal Factors,36.5
+Thailand,1986,All Suicide,5.6
+Thailand,1986,Expected Lifespan,68.6
+Thailand,1987,All Diseases,184.4
+Thailand,1987,All Exterrnal Factors,36.9
+Thailand,1987,All Suicide,5.9
+Thailand,1987,Expected Lifespan,69.2
+Thailand,1988,Expected Lifespan,69.7
+Thailand,1989,Expected Lifespan,70.1
+Thailand,1990,All Diseases,194.5
+Thailand,1990,All Exterrnal Factors,50.2
+Thailand,1990,All Suicide,6.8
+Thailand,1990,Expected Lifespan,70.2
+Thailand,1991,All Diseases,198.6
+Thailand,1991,All Exterrnal Factors,53
+Thailand,1991,All Suicide,6.3
+Thailand,1991,Expected Lifespan,70.3
+Thailand,1992,All Diseases,200.7
+Thailand,1992,All Exterrnal Factors,56.2
+Thailand,1992,All Suicide,6.2
+Thailand,1992,Expected Lifespan,70.3
+Thailand,1993,Expected Lifespan,70.2
+Thailand,1994,All Diseases,274.1
+Thailand,1994,All Exterrnal Factors,69.4
+Thailand,1994,All Suicide,4.1
+Thailand,1994,Expected Lifespan,70.2
+Thailand,1995,All Diseases,265.3
+Thailand,1995,All Exterrnal Factors,65.7
+Thailand,1995,All Suicide,7.1
+Thailand,1995,Expected Lifespan,70.2
+Thailand,1996,All Diseases,271.1
+Thailand,1996,All Exterrnal Factors,65.1
+Thailand,1996,All Suicide,7.2
+Thailand,1996,Expected Lifespan,70.2
+Thailand,1997,All Diseases,240.7
+Thailand,1997,All Exterrnal Factors,48.6
+Thailand,1997,All Suicide,6.6
+Thailand,1997,Expected Lifespan,70.3
+Thailand,1998,All Diseases,235.3
+Thailand,1998,All Exterrnal Factors,40.8
+Thailand,1998,All Suicide,7.8
+Thailand,1998,Expected Lifespan,70.4
+Thailand,1999,All Diseases,232.8
+Thailand,1999,All Exterrnal Factors,53.5
+Thailand,1999,All Suicide,8.2
+Thailand,1999,Expected Lifespan,70.5
+Thailand,2000,All Diseases,228.4
+Thailand,2000,All Exterrnal Factors,56.1
+Thailand,2000,All Suicide,7.9
+Thailand,2000,Expected Lifespan,70.6
+Thailand,2001,Expected Lifespan,70.8
+Thailand,2002,All Diseases,246.6
+Thailand,2002,All Exterrnal Factors,59.2
+Thailand,2002,All Suicide,7.4
+Thailand,2002,Expected Lifespan,71.1
+Thailand,2003,All Diseases,258.4
+Thailand,2003,All Exterrnal Factors,61
+Thailand,2003,All Suicide,6.6
+Thailand,2003,Expected Lifespan,71.4
+Thailand,2004,All Diseases,229.2
+Thailand,2004,All Exterrnal Factors,59.7
+Thailand,2004,All Suicide,6.2
+Thailand,2004,Expected Lifespan,71.8
+Thailand,2005,All Diseases,223.4
+Thailand,2005,All Exterrnal Factors,58.1
+Thailand,2005,All Suicide,5.6
+Thailand,2005,Expected Lifespan,72.2
+Thailand,2006,All Diseases,208.3
+Thailand,2006,All Exterrnal Factors,60.1
+Thailand,2006,All Suicide,5.1
+Thailand,2006,Expected Lifespan,72.5
+Thailand,2007,Expected Lifespan,72.9
+Thailand,2008,Expected Lifespan,73.2
+Thailand,2009,Expected Lifespan,73.5
+Thailand,2010,Expected Lifespan,73.7
+Thailand,2011,Expected Lifespan,73.9
+Thailand,2012,Expected Lifespan,74.1
+Thailand,2013,Expected Lifespan,74.2
+United Kingdom,1980,All Diseases,509.8
+United Kingdom,1980,All Exterrnal Factors,29.4
+United Kingdom,1980,All Suicide,7.8
+United Kingdom,1980,Expected Lifespan,73.7
+United Kingdom,1981,All Diseases,488.6
+United Kingdom,1981,All Exterrnal Factors,27.7
+United Kingdom,1981,All Suicide,7.9
+United Kingdom,1981,Expected Lifespan,74
+United Kingdom,1982,All Diseases,486.5
+United Kingdom,1982,All Exterrnal Factors,27.2
+United Kingdom,1982,All Suicide,7.8
+United Kingdom,1982,Expected Lifespan,74.2
+United Kingdom,1983,All Diseases,474.8
+United Kingdom,1983,All Exterrnal Factors,25.9
+United Kingdom,1983,All Suicide,7.7
+United Kingdom,1983,Expected Lifespan,74.4
+United Kingdom,1984,All Diseases,439
+United Kingdom,1984,All Exterrnal Factors,25.4
+United Kingdom,1984,All Suicide,7.7
+United Kingdom,1984,Expected Lifespan,74.8
+United Kingdom,1985,All Diseases,450.3
+United Kingdom,1985,All Exterrnal Factors,24.8
+United Kingdom,1985,All Suicide,7.9
+United Kingdom,1985,Expected Lifespan,74.6
+United Kingdom,1986,All Diseases,434
+United Kingdom,1986,All Exterrnal Factors,24.8
+United Kingdom,1986,All Suicide,7.5
+United Kingdom,1986,Expected Lifespan,74.9
+United Kingdom,1987,All Diseases,410.2
+United Kingdom,1987,All Exterrnal Factors,23.7
+United Kingdom,1987,All Suicide,7.2
+United Kingdom,1987,Expected Lifespan,75.3
+United Kingdom,1988,All Diseases,404.5
+United Kingdom,1988,All Exterrnal Factors,23.7
+United Kingdom,1988,All Suicide,7.7
+United Kingdom,1988,Expected Lifespan,75.4
+United Kingdom,1989,All Diseases,403.2
+United Kingdom,1989,All Exterrnal Factors,23.6
+United Kingdom,1989,All Suicide,6.8
+United Kingdom,1989,Expected Lifespan,75.6
+United Kingdom,1990,All Diseases,383.9
+United Kingdom,1990,All Exterrnal Factors,23.6
+United Kingdom,1990,All Suicide,7.3
+United Kingdom,1990,Expected Lifespan,75.9
+United Kingdom,1991,All Diseases,380.1
+United Kingdom,1991,All Exterrnal Factors,22.4
+United Kingdom,1991,All Suicide,7.2
+United Kingdom,1991,Expected Lifespan,76.1
+United Kingdom,1992,All Diseases,364.7
+United Kingdom,1992,All Exterrnal Factors,21.1
+United Kingdom,1992,All Suicide,7.3
+United Kingdom,1992,Expected Lifespan,76.4
+United Kingdom,1993,All Diseases,387.7
+United Kingdom,1993,All Exterrnal Factors,20.3
+United Kingdom,1993,All Suicide,7
+United Kingdom,1993,Expected Lifespan,76.4
+United Kingdom,1994,All Diseases,359.9
+United Kingdom,1994,All Exterrnal Factors,19.9
+United Kingdom,1994,All Suicide,6.8
+United Kingdom,1994,Expected Lifespan,76.9
+United Kingdom,1995,All Diseases,365.6
+United Kingdom,1995,All Exterrnal Factors,19.6
+United Kingdom,1995,All Suicide,6.7
+United Kingdom,1995,Expected Lifespan,76.8
+United Kingdom,1996,All Diseases,354.3
+United Kingdom,1996,All Exterrnal Factors,20
+United Kingdom,1996,All Suicide,6.4
+United Kingdom,1996,Expected Lifespan,77.1
+United Kingdom,1997,All Diseases,345.6
+United Kingdom,1997,All Exterrnal Factors,20.1
+United Kingdom,1997,All Suicide,6.4
+United Kingdom,1997,Expected Lifespan,77.2
+United Kingdom,1998,All Diseases,339.5
+United Kingdom,1998,All Exterrnal Factors,19.3
+United Kingdom,1998,All Suicide,6.8
+United Kingdom,1998,Expected Lifespan,77.2
+United Kingdom,1999,All Diseases,338.7
+United Kingdom,1999,All Exterrnal Factors,19.5
+United Kingdom,1999,All Suicide,6.8
+United Kingdom,1999,Expected Lifespan,77.4
+United Kingdom,2000,All Diseases,318.2
+United Kingdom,2000,All Exterrnal Factors,19.2
+United Kingdom,2000,All Suicide,6.6
+United Kingdom,2000,Expected Lifespan,77.7
+United Kingdom,2001,All Diseases,314.3
+United Kingdom,2001,All Exterrnal Factors,20.5
+United Kingdom,2001,All Suicide,6.4
+United Kingdom,2001,Expected Lifespan,78
+United Kingdom,2002,All Diseases,312.2
+United Kingdom,2002,All Exterrnal Factors,19.9
+United Kingdom,2002,All Suicide,6.4
+United Kingdom,2002,Expected Lifespan,78.1
+United Kingdom,2003,All Diseases,312.5
+United Kingdom,2003,All Exterrnal Factors,20.2
+United Kingdom,2003,All Suicide,6.1
+United Kingdom,2003,Expected Lifespan,78.4
+United Kingdom,2004,All Diseases,291
+United Kingdom,2004,All Exterrnal Factors,19.8
+United Kingdom,2004,All Suicide,6.3
+United Kingdom,2004,Expected Lifespan,78.7
+United Kingdom,2005,All Diseases,283.1
+United Kingdom,2005,All Exterrnal Factors,19.6
+United Kingdom,2005,All Suicide,6
+United Kingdom,2005,Expected Lifespan,79
+United Kingdom,2006,All Diseases,270.2
+United Kingdom,2006,All Exterrnal Factors,19.3
+United Kingdom,2006,All Suicide,6.1
+United Kingdom,2006,Expected Lifespan,79.2
+United Kingdom,2007,All Diseases,263.2
+United Kingdom,2007,All Exterrnal Factors,19.4
+United Kingdom,2007,All Suicide,5.7
+United Kingdom,2007,Expected Lifespan,79.4
+United Kingdom,2008,All Diseases,258.8
+United Kingdom,2008,All Exterrnal Factors,19.3
+United Kingdom,2008,All Suicide,6.2
+United Kingdom,2008,Expected Lifespan,79.6
+United Kingdom,2009,All Diseases,242.7
+United Kingdom,2009,All Exterrnal Factors,18.5
+United Kingdom,2009,All Suicide,6.2
+United Kingdom,2009,Expected Lifespan,80.1
+United Kingdom,2010,All Diseases,237.1
+United Kingdom,2010,All Exterrnal Factors,17.5
+United Kingdom,2010,All Suicide,6
+United Kingdom,2010,Expected Lifespan,80.4
+United Kingdom,2011,All Diseases,217.8
+United Kingdom,2011,All Exterrnal Factors,17.9
+United Kingdom,2011,All Suicide,6.3
+United Kingdom,2011,Expected Lifespan,81
+United Kingdom,2012,All Diseases,218.4
+United Kingdom,2012,All Exterrnal Factors,17.1
+United Kingdom,2012,All Suicide,6.3
+United Kingdom,2012,Expected Lifespan,80.9
+United Kingdom,2013,All Diseases,217.7
+United Kingdom,2013,All Exterrnal Factors,17.7
+United Kingdom,2013,All Suicide,6.6
+United Kingdom,2013,Expected Lifespan,81
+United States,1980,All Diseases,423.3
+United States,1980,All Exterrnal Factors,55.1
+United States,1980,All Suicide,11.2
+United States,1980,Expected Lifespan,73.6
+United States,1981,All Diseases,410.2
+United States,1981,All Exterrnal Factors,52.3
+United States,1981,All Suicide,11.4
+United States,1981,Expected Lifespan,74
+United States,1982,All Diseases,397.5
+United States,1982,All Exterrnal Factors,48.1
+United States,1982,All Suicide,11.5
+United States,1982,Expected Lifespan,74.4
+United States,1983,All Diseases,403.3
+United States,1983,All Exterrnal Factors,45.8
+United States,1983,All Suicide,11.3
+United States,1983,Expected Lifespan,74.5
+United States,1984,All Diseases,393
+United States,1984,All Exterrnal Factors,45.2
+United States,1984,All Suicide,11.5
+United States,1984,Expected Lifespan,74.6
+United States,1985,All Diseases,393.4
+United States,1985,All Exterrnal Factors,44.8
+United States,1985,All Suicide,11.4
+United States,1985,Expected Lifespan,74.6
+United States,1986,All Diseases,385.5
+United States,1986,All Exterrnal Factors,45.9
+United States,1986,All Suicide,11.8
+United States,1986,Expected Lifespan,74.6
+United States,1987,All Diseases,382.3
+United States,1987,All Exterrnal Factors,44.9
+United States,1987,All Suicide,11.7
+United States,1987,Expected Lifespan,74.8
+United States,1988,All Diseases,382.1
+United States,1988,All Exterrnal Factors,45.7
+United States,1988,All Suicide,11.4
+United States,1988,Expected Lifespan,74.8
+United States,1989,All Diseases,365.9
+United States,1989,All Exterrnal Factors,44.7
+United States,1989,All Suicide,11.2
+United States,1989,Expected Lifespan,75
+United States,1990,All Diseases,361.4
+United States,1990,All Exterrnal Factors,44.1
+United States,1990,All Suicide,11.4
+United States,1990,Expected Lifespan,75.2
+United States,1991,All Diseases,354.8
+United States,1991,All Exterrnal Factors,43.2
+United States,1991,All Suicide,11.3
+United States,1991,Expected Lifespan,75.4
+United States,1992,All Diseases,348.2
+United States,1992,All Exterrnal Factors,41.5
+United States,1992,All Suicide,11.1
+United States,1992,Expected Lifespan,75.6
+United States,1993,All Diseases,355.8
+United States,1993,All Exterrnal Factors,42.9
+United States,1993,All Suicide,11.2
+United States,1993,Expected Lifespan,75.4
+United States,1994,All Diseases,350.1
+United States,1994,All Exterrnal Factors,42.4
+United States,1994,All Suicide,11.1
+United States,1994,Expected Lifespan,75.6
+United States,1995,All Diseases,348
+United States,1995,All Exterrnal Factors,41.7
+United States,1995,All Suicide,11.1
+United States,1995,Expected Lifespan,75.6
+United States,1996,All Diseases,338.7
+United States,1996,All Exterrnal Factors,41
+United States,1996,All Suicide,10.8
+United States,1996,Expected Lifespan,76
+United States,1997,All Diseases,329.4
+United States,1997,All Exterrnal Factors,40.3
+United States,1997,All Suicide,10.5
+United States,1997,Expected Lifespan,76.4
+United States,1998,All Diseases,322.8
+United States,1998,All Exterrnal Factors,39.7
+United States,1998,All Suicide,10.4
+United States,1998,Expected Lifespan,76.6
+United States,1999,All Diseases,350.5
+United States,1999,All Exterrnal Factors,39.7
+United States,1999,All Suicide,9.8
+United States,1999,Expected Lifespan,76.6
+United States,2000,All Diseases,342.4
+United States,2000,All Exterrnal Factors,38.6
+United States,2000,All Suicide,9.5
+United States,2000,Expected Lifespan,76.6
+United States,2001,All Diseases,334.3
+United States,2001,All Exterrnal Factors,40.2
+United States,2001,All Suicide,9.8
+United States,2001,Expected Lifespan,76.8
+United States,2002,All Diseases,330.1
+United States,2002,All Exterrnal Factors,40.7
+United States,2002,All Suicide,10
+United States,2002,Expected Lifespan,76.9
+United States,2003,All Diseases,324.2
+United States,2003,All Exterrnal Factors,40.9
+United States,2003,All Suicide,9.8
+United States,2003,Expected Lifespan,77
+United States,2004,All Diseases,308.4
+United States,2004,All Exterrnal Factors,41
+United States,2004,All Suicide,10
+United States,2004,Expected Lifespan,77.5
+United States,2005,All Diseases,305.9
+United States,2005,All Exterrnal Factors,42.3
+United States,2005,All Suicide,9.9
+United States,2005,Expected Lifespan,77.5
+United States,2006,All Diseases,292.5
+United States,2006,All Exterrnal Factors,43.5
+United States,2006,All Suicide,10
+United States,2006,Expected Lifespan,77.7
+United States,2007,All Diseases,286.3
+United States,2007,All Exterrnal Factors,43.3
+United States,2007,All Suicide,10.3
+United States,2007,Expected Lifespan,78
+United States,2008,All Diseases,288.5
+United States,2008,All Exterrnal Factors,41.7
+United States,2008,All Suicide,10.6
+United States,2008,Expected Lifespan,78
+United States,2009,All Diseases,277.8
+United States,2009,All Exterrnal Factors,39.7
+United States,2009,All Suicide,10.7
+United States,2009,Expected Lifespan,78.4
+United States,2010,All Diseases,272.8
+United States,2010,All Exterrnal Factors,39.6
+United States,2010,All Suicide,11
+United States,2010,Expected Lifespan,78.5
+United States,2011,All Diseases,270.2
+United States,2011,All Exterrnal Factors,40.4
+United States,2011,All Suicide,11.3
+United States,2011,Expected Lifespan,78.6
+United States,2012,All Diseases,264.8
+United States,2012,All Exterrnal Factors,40.3
+United States,2012,All Suicide,11.5
+United States,2012,Expected Lifespan,78.7
+United States,2013,All Diseases,267.4
+United States,2013,All Exterrnal Factors,40.4
+United States,2013,All Suicide,11.5
+United States,2013,Expected Lifespan,78.8
+WORLD,1980,All Diseases,473
+WORLD,1980,All Exterrnal Factors,61.23
+WORLD,1980,All Suicide,12.71
+WORLD,1980,Expected Lifespan,62.8
+WORLD,1981,All Diseases,475.5
+WORLD,1981,All Exterrnal Factors,63.93
+WORLD,1981,All Suicide,13.09
+WORLD,1981,Expected Lifespan,63.1
+WORLD,1982,All Diseases,463.6
+WORLD,1982,All Exterrnal Factors,60.06
+WORLD,1982,All Suicide,13.3
+WORLD,1982,Expected Lifespan,63.5
+WORLD,1983,All Diseases,449.8
+WORLD,1983,All Exterrnal Factors,56.54
+WORLD,1983,All Suicide,10.58
+WORLD,1983,Expected Lifespan,63.7
+WORLD,1984,All Diseases,438
+WORLD,1984,All Exterrnal Factors,56.28
+WORLD,1984,All Suicide,10.38
+WORLD,1984,Expected Lifespan,64
+WORLD,1985,All Diseases,464.3
+WORLD,1985,All Exterrnal Factors,55.75
+WORLD,1985,All Suicide,12.73
+WORLD,1985,Expected Lifespan,64.2
+WORLD,1986,All Diseases,442.3
+WORLD,1986,All Exterrnal Factors,53.89
+WORLD,1986,All Suicide,11.83
+WORLD,1986,Expected Lifespan,64.5
+WORLD,1987,All Diseases,435.4
+WORLD,1987,All Exterrnal Factors,52.03
+WORLD,1987,All Suicide,11.02
+WORLD,1987,Expected Lifespan,64.8
+WORLD,1988,All Diseases,433.7
+WORLD,1988,All Exterrnal Factors,55.66
+WORLD,1988,All Suicide,11.36
+WORLD,1988,Expected Lifespan,65
+WORLD,1989,All Diseases,417.8
+WORLD,1989,All Exterrnal Factors,56.94
+WORLD,1989,All Suicide,11.36
+WORLD,1989,Expected Lifespan,65.2
+WORLD,1990,All Diseases,420.4
+WORLD,1990,All Exterrnal Factors,56.53
+WORLD,1990,All Suicide,11.27
+WORLD,1990,Expected Lifespan,65.4
+WORLD,1991,All Diseases,420.3
+WORLD,1991,All Exterrnal Factors,57.71
+WORLD,1991,All Suicide,11.27
+WORLD,1991,Expected Lifespan,65.6
+WORLD,1992,All Diseases,428.6
+WORLD,1992,All Exterrnal Factors,59.17
+WORLD,1992,All Suicide,11.32
+WORLD,1992,Expected Lifespan,65.7
+WORLD,1993,All Diseases,445.8
+WORLD,1993,All Exterrnal Factors,62.71
+WORLD,1993,All Suicide,12.2
+WORLD,1993,Expected Lifespan,65.9
+WORLD,1994,All Diseases,448.3
+WORLD,1994,All Exterrnal Factors,63.94
+WORLD,1994,All Suicide,12.67
+WORLD,1994,Expected Lifespan,66.1
+WORLD,1995,All Diseases,443.4
+WORLD,1995,All Exterrnal Factors,62.48
+WORLD,1995,All Suicide,12.88
+WORLD,1995,Expected Lifespan,66.3
+WORLD,1996,All Diseases,440.9
+WORLD,1996,All Exterrnal Factors,58.75
+WORLD,1996,All Suicide,12.68
+WORLD,1996,Expected Lifespan,66.6
+WORLD,1997,All Diseases,426.9
+WORLD,1997,All Exterrnal Factors,55.22
+WORLD,1997,All Suicide,11.98
+WORLD,1997,Expected Lifespan,66.9
+WORLD,1998,All Diseases,429.1
+WORLD,1998,All Exterrnal Factors,53.87
+WORLD,1998,All Suicide,12.19
+WORLD,1998,Expected Lifespan,67.1
+WORLD,1999,All Diseases,424.9
+WORLD,1999,All Exterrnal Factors,53.98
+WORLD,1999,All Suicide,12.1
+WORLD,1999,Expected Lifespan,67.3
+WORLD,2000,All Diseases,421.3
+WORLD,2000,All Exterrnal Factors,53.72
+WORLD,2000,All Suicide,11.52
+WORLD,2000,Expected Lifespan,67.6
+WORLD,2001,All Diseases,421.6
+WORLD,2001,All Exterrnal Factors,53.83
+WORLD,2001,All Suicide,11.53
+WORLD,2001,Expected Lifespan,67.9
+WORLD,2002,All Diseases,430.4
+WORLD,2002,All Exterrnal Factors,55.74
+WORLD,2002,All Suicide,11.44
+WORLD,2002,Expected Lifespan,68.2
+WORLD,2003,All Diseases,433.8
+WORLD,2003,All Exterrnal Factors,54.61
+WORLD,2003,All Suicide,10.91
+WORLD,2003,Expected Lifespan,68.4
+WORLD,2004,All Diseases,431.5
+WORLD,2004,All Exterrnal Factors,54.46
+WORLD,2004,All Suicide,10.89
+WORLD,2004,Expected Lifespan,68.8
+WORLD,2005,All Diseases,432.2
+WORLD,2005,All Exterrnal Factors,54.24
+WORLD,2005,All Suicide,10.6
+WORLD,2005,Expected Lifespan,69
+WORLD,2006,All Diseases,416.5
+WORLD,2006,All Exterrnal Factors,51.62
+WORLD,2006,All Suicide,10.15
+WORLD,2006,Expected Lifespan,69.3
+WORLD,2007,All Diseases,415.5
+WORLD,2007,All Exterrnal Factors,50.01
+WORLD,2007,All Suicide,10.55
+WORLD,2007,Expected Lifespan,69.6
+WORLD,2008,All Diseases,417.7
+WORLD,2008,All Exterrnal Factors,48.75
+WORLD,2008,All Suicide,9.81
+WORLD,2008,Expected Lifespan,69.9
+WORLD,2009,All Diseases,364.9
+WORLD,2009,All Exterrnal Factors,45.13
+WORLD,2009,All Suicide,9.96
+WORLD,2009,Expected Lifespan,70.2
+WORLD,2010,All Diseases,358.8
+WORLD,2010,All Exterrnal Factors,44.16
+WORLD,2010,All Suicide,9.54
+WORLD,2010,Expected Lifespan,70.5
+WORLD,2011,All Diseases,346.9
+WORLD,2011,All Exterrnal Factors,43.79
+WORLD,2011,All Suicide,9.48
+WORLD,2011,Expected Lifespan,70.8
+WORLD,2012,All Diseases,332.9
+WORLD,2012,All Exterrnal Factors,39.41
+WORLD,2012,All Suicide,8.46
+WORLD,2012,Expected Lifespan,71
+WORLD,2013,All Diseases,321.8
+WORLD,2013,All Exterrnal Factors,37.61
+WORLD,2013,All Suicide,8.37
+WORLD,2013,Expected Lifespan,71.2
