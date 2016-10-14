@@ -2,6 +2,9 @@
 ### Summary
 This data visualization explores whether the world is really getting more dangerous to live in (a commonly held belief, from my experience), based on publicly-available data from the World Health Organization.  The key metric used to explore this is the percentage of total deaths that are caused by external factors, as defined by the International Classification of Diseases (ICD) standards.  "External Factors" refers to all causes of death other than internal diseases and symptoms:  transport accidents, household accidents, falls, homicide, warfare, terrorism, intentional self-harm, etc.
 
+### Finding
+The finding of the visualization is that the world does NOT actually appear to be getting more dangerous.  For the past 30+ years, the percentage of deaths caused by external factors has remained fairly constant around 8 or 9%.  Given that many countries did not report data, this is certainly not a complete dataset, but as long as it is at least somewhat representative, it paints a much more positive picture than the impression many people get from the media and 24-hour news stations.  While death is rarely a welcome experience, this suggests that 91-92% of the world population at least meet their end in a non-violent manner.
+
 ### Design
 Initially I tried to show multiple metrics broken down by country (overall death rate, external factor death rate excluding intentional self-harm, intentional self-harm death rate, and expected lifespan), all on the same graph.  While this did seem to suggest some overall trends, the graph was simply too busy, and it was made even more confusing by the fact that some metrics used different units (death rate per 100,000, death rate per 10,000, and age in years).  It also grouped the line colors by metric instead of by country, so it was difficult to compare countries.
 
